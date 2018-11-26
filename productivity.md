@@ -8,7 +8,7 @@ When you have in mind to work on something, thoughts and internal obstacles can 
 
 ### Differentiate between "I want to" and "I have to"
 
-
+## Habits
 ### Automate and Eliminate Roadblocks
 When working it happens you encounter tasks that consume time, whereas this is unnecessary,  or at least the time spend on these tasks can be reduced. In order to tackle this, it's a wise investment to prioritize time defining and tackling these inefficiencies. Examples of inefficiencies that can be tackled:
 * Making it easy to find information across different platforms (Drive, Evernote, Desktop, Email etc.)
