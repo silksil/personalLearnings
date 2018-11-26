@@ -1,10 +1,10 @@
 ### Mindset 
 * Snow-ball effect: 
-```
+>
 “A tree as big around as you can reach starts with a small seed; 
 a thousand-mile journey starts with one step.” 
 —Lao-tse
-```
+> 
 When you have in mind to work on something, thoughts and internal obstacles can prevent you from actually making things happen. The longer you wait and the more you unconciously think, the bigger the obstacle to actually start and make things happen. Thus, often the best way to make things happen is to just start, and rememmber that there is no beginning and end, but only a contiously cycle. In the words of Benjamin Hoff: 
 ```
 “Wisdom, Happiness, and Courage are not waiting somewhere 
