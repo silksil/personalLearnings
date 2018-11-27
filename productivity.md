@@ -11,7 +11,15 @@ When you have in mind to work on something, thoughts and internal obstacles can 
 As argued in the section above, internal obstacles can prevent you from actually making things happen. One way these internal obstacles can occur is by having the idea that tasks are an obligation, or having the feeling it is imposed on you. In other words, that you have the feeling that you have to do it, without having the feeling that you want to do it. Now, of course, it can happen that you have to do tasks that you do not enjoy doing. Nonetheless, these tasks become so much easier if you consciously decide that you want to do it anyway. In order to rationalize these decisions, I often say to myself that it's simply part of life, or that the tasks at least teach me to be disciplined. For example, I do not enjoy cooking that much, but **I want to eat healthy**, so **I want** to prioritize time buying groceries and cooking. 
 
 ## Habits
-### Automate and Eliminate Roadblocks
+### Define how you work
+### Focus on what is important
+### Be accountable 
+### Measure
+### Remove distractions
+### Embrace downtime and boredom
+### Structure your deep thinking
+
+### Elimenate roadblocks
 When working it happens you encounter tasks that consume time, whereas this is unnecessary,  or at least the time spend on these tasks can be reduced. In order to tackle this, it's a wise investment to prioritize time defining and tackling these inefficiencies. Examples of inefficiencies that can be tackled:
 * Making it easy to find information across different platforms (Drive, Evernote, Desktop, Email etc.)
 * Have a password manager (Dashlane)
