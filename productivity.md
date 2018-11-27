@@ -7,10 +7,6 @@
   * [Embrace downtime and boredom](#Embrace-downtime-and-boredom)
   * [Structure your thoughts and ideas](#Structure-your-thoughts-and-ideas)
   * [Elimenate roadblocks](#Elimenate-roadblocks)
-  
-    + [Sub-sub-heading](#sub-sub-heading)
-
-
 
 ## Mindset 
 
@@ -34,9 +30,16 @@ By reducing the need to make decisions about deep work moment by moment, I can p
 * […] don’t waste mental energy figuring out what you need in the moment
 
 ### Focus on what is important
+The more you try to do, the less you actually accomplish. Don’t try to say ‘no’ to the trivial Say ‘yes’ to the ambitious and crowd out everything else.
+
 ### Be accountable and measure
 Act on Lead Measures […] Lag measures describe the think you’re ultimately trying to improve. […] Lead measus, on the other hand, “measures the new behaviour that will drive success on the lag measures.” 
+
 ### Remove distractions
+- Remove social media from your phone and other distracting apps.
+- Turn off notifications. 
+- Use a app like Freedom to block apps and websites, on both phone and desktop.
+
 ### Embrace downtime and boredom
 Once your brain has become accustomed to on-demand distraction, Nass discovered, it’s hard to shake the addiction even when you want to concentrate. To put this more concretely: If every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where, like the “mental wrecks” in Nass’s research, it’s not ready for deep work—even if you regularly schedule time to practice this concentration.
 
@@ -44,7 +47,11 @@ Downtime helps recharge the energy needed to work deeply
 The authors of this study, led by the Dutch psychologist Ap Dijksterhuis, set out to prove that some decisions are better left to your unconscious mind to untangle. 
 * Don’t take breaks from distraction. Instead take breaks from focus. 
 * Schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times.
+
 ### Structure your thoughts and ideas
+careful review of the relevant variables for solving the problem
+
+For example, the main points you want to make in the chapter. Define the specific next-step question you need to answer using these variables. Example “How am I going to effectively open this chapter?,” you now have a specific target for your attention. The final step is to consolidate your gains by reviewing clearly the answer you identified.
 
 ### Elimenate roadblocks
 When working it happens you encounter tasks that consume time, whereas this is unnecessary,  or at least the time spend on these tasks can be reduced. In order to tackle this, it's a wise investment to prioritize time defining and tackling these inefficiencies. Examples of inefficiencies that can be tackled:
