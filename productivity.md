@@ -1,6 +1,6 @@
 
 - [Habits](#habits)
-  * [Be clear on how you work](#Be clear on how you work)
+  * [Be clear on how you work](#Be%clear%on%how%you%work)
     + [Sub-sub-heading](#sub-sub-heading)
 
 
