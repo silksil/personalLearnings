@@ -1,6 +1,6 @@
 
 - [Habits](#habits)
-  * [Be clear on how you work](###Be%clear%on%how%you%work)
+  * [Be clear on how you work](###Be%20clear%20on%20how%20you%20work)
   * [Focus on what is important](#Focus%on%what%is%important)
   * [Be accountable and measure](#Be%accountable%and%measure)
   * [Remove distractions](#Remove%distractions)
