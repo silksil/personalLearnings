@@ -12,11 +12,25 @@ As argued in the section above, internal obstacles can prevent you from actually
 
 ## Habits
 ### Define how you work
+By reducing the need to make decisions about deep work moment by moment, I can preserve more mental energy for the deep thinking itself. 
+* To make the most out of your deep work sessions, build rituals of the same level of strictness and idiosyncrasy as the important thinkers mentioned previously. 
+    * Where you’ll will work and for how long.
+    * How you’ll work once you start to work.
+    * How you’ll support your work.
+* […] don’t waste mental energy figuring out what you need in the moment
+
 ### Focus on what is important
 ### Be accountable 
 ### Measure
+Act on Lead Measures […] Lag measures describe the think you’re ultimately trying to improve. […] Lead measus, on the other hand, “measures the new behaviour that will drive success on the lag measures.” 
 ### Remove distractions
 ### Embrace downtime and boredom
+Once your brain has become accustomed to on-demand distraction, Nass discovered, it’s hard to shake the addiction even when you want to concentrate. To put this more concretely: If every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where, like the “mental wrecks” in Nass’s research, it’s not ready for deep work—even if you regularly schedule time to practice this concentration.
+
+Downtime helps recharge the energy needed to work deeply
+The authors of this study, led by the Dutch psychologist Ap Dijksterhuis, set out to prove that some decisions are better left to your unconscious mind to untangle. 
+* Don’t take breaks from distraction. Instead take breaks from focus. 
+* Schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times.
 ### Structure your deep thinking
 
 ### Elimenate roadblocks
