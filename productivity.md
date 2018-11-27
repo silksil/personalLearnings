@@ -1,6 +1,13 @@
 
 - [Habits](#habits)
   * [Be clear on how you work](#Be%clear%on%how%you%work)
+  * [Focus on what is important](#Focus%on%what%is%important)
+  * [Be accountable and measure](#Be%accountable%and%measure)
+  * [Remove distractions](#Remove%distractions)
+  * [Embrace downtime and boredom](#Embrace%downtime%and%boredom)
+  * [Structure your thoughts and ideas](#Structure%your%thoughts%and%ideas)
+  * [Elimenate roadblocks](#Elimenate%roadblocks)
+  
     + [Sub-sub-heading](#sub-sub-heading)
 
 
@@ -27,8 +34,7 @@ By reducing the need to make decisions about deep work moment by moment, I can p
 * […] don’t waste mental energy figuring out what you need in the moment
 
 ### Focus on what is important
-### Be accountable 
-### Measure
+### Be accountable and measure
 Act on Lead Measures […] Lag measures describe the think you’re ultimately trying to improve. […] Lead measus, on the other hand, “measures the new behaviour that will drive success on the lag measures.” 
 ### Remove distractions
 ### Embrace downtime and boredom
@@ -38,7 +44,7 @@ Downtime helps recharge the energy needed to work deeply
 The authors of this study, led by the Dutch psychologist Ap Dijksterhuis, set out to prove that some decisions are better left to your unconscious mind to untangle. 
 * Don’t take breaks from distraction. Instead take breaks from focus. 
 * Schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times.
-### Structure your deep thinking
+### Structure your thoughts and ideas
 
 ### Elimenate roadblocks
 When working it happens you encounter tasks that consume time, whereas this is unnecessary,  or at least the time spend on these tasks can be reduced. In order to tackle this, it's a wise investment to prioritize time defining and tackling these inefficiencies. Examples of inefficiencies that can be tackled:
