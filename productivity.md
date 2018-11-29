@@ -24,30 +24,31 @@ Sources:
 
 
 # Work effectively
-### Focus on what is important
+### 1. Focus on what is important
 Essentialism is not about how to get more things done; it’s about how to get the right things done. It doesn’t mean just doing less for the sake of less either. It is about making the wisest possible investment of your time and energy in order to operate at our highest point of contribution by doing only what is essential
 
 The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you accomplish. Thus, focus on the goals that benefit you most, and focus on the the most important tasks that support a goal.
 
-### Be accountable and measure
-Act on Lead Measures […] Lag measures describe the think you’re ultimately trying to improve. […] Lead measus, on the other hand, “measures the new behaviour that will drive success on the lag measures.” 
-
-### Define a process to make the correct decisions 
+### 2. Be clear on how you work (part 1)
 careful review of the relevant variables for solving the problem
 
 For example, the main points you want to make in the chapter. Define the specific next-step question you need to answer using these variables. Example “How am I going to effectively open this chapter?,” you now have a specific target for your attention. The final step is to consolidate your gains by reviewing clearly the answer you identified.
 
+### 3. Be accountable and measure
+Act on Lead Measures […] Lag measures describe the think you’re ultimately trying to improve. […] Lead measus, on the other hand, “measures the new behaviour that will drive success on the lag measures.” 
+
+
 # Work efficiently
-### Be clear on how you work
+### 1. Be clear on how you work (part 2)
 Being clear on how you work to 1.) **reduce the amount of tempetation** to shifts into reward-seeking mode and to 2.) **preserve mental energy** for work itsels instead of figuring what you need to do in the moment. As suggested by Cal Newport, this includes: 
 * Where you’ll will work and for how long.
 * How you’ll work once you start to work. 
 * How you’ll support your work (tools, checklists, food, notebooks)
 
-### Focus on 1 task at a time
+### 2. Focus on 1 task at a time
 The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you accomplish. Thus, focus on the goals that benefit you most, and focus on the the most important tasks that support a goal.
 
-### Remove distractions
+### 3. Remove distractions and stay organized
 Being distracted fucks up your brain:
 > Once your brain has become accustomed to on-demand distraction, Nass discovered, it’s hard to shake the addiction even when you want to concentrate. To put this more concretely: If every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where, like the “mental wrecks” in Nass’s research, it’s not ready for deep work—even if you regularly schedule time to practice this concentration. — Cal Newport
 
@@ -57,13 +58,13 @@ Actions that I have taken to reduce distractions:
 - Use a app like Freedom to block apps and websites, on both phone and desktop.
 - Use an headphone or earplugs to block out sound. 
 
-### Embrace downtime and boredom
+### 4.Rest
 Downtime helps recharge the energy needed to work deeply
 The authors of this study, led by the Dutch psychologist Ap Dijksterhuis, set out to prove that some decisions are better left to your unconscious mind to untangle. 
 * Don’t take breaks from distraction. Instead take breaks from focus. 
 * Schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times.
 
-### Elimenate roadblocks
+### 5. Elimenate roadblocks
 When working it happens you encounter tasks that consume time, whereas this is unnecessary,  or at least the time spend on these tasks can be reduced. In order to tackle this, it's a wise investment to prioritize time defining and tackling these inefficiencies. Examples of inefficiencies that can be tackled:
 * Making it easy to find information across different platforms (Drive, Evernote, Desktop, Email etc.)
 * Have a password manager (Dashlane)
@@ -72,7 +73,6 @@ When working it happens you encounter tasks that consume time, whereas this is u
 
 In order to assure you don't forget inefficiencies that come-up and you notice while working, you can create a file where you can note the inefficiency. Periodically(in my case weekly)I have scheduled a time slot that focuses on actually tackling these issues. 
 
-### Stay organized
 
 
 ## Mental strategies
