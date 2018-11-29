@@ -26,7 +26,7 @@ As argued in the section above, internal obstacles can prevent you from actually
 
 ## Principles
 ### Be clear on how you work
-Being clear on how you work to 1.)**reduce the amount of tempetation** to shifts into reward-seeking mode and to 2.) **preserve mental energy** for work itsels instead of figuring what you need to do in the moment. As suggested by Cal Newport, this includes: 
+Being clear on how you work to 1.) **reduce the amount of tempetation** to shifts into reward-seeking mode and to 2.) **preserve mental energy** for work itsels instead of figuring what you need to do in the moment. As suggested by Cal Newport, this includes: 
 * Where you’ll will work and for how long.
 * How you’ll work once you start to work. 
 * How you’ll support your work (tools, checklists, food, notebooks)
