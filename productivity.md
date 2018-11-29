@@ -1,5 +1,5 @@
-
-- [Habits](#habits)
+- [Mental strategies](#Mental-strategies)
+- [Principles](#Principles)
   * [Be clear on how you work](#Be-clear-on-how-you-work)
   * [Focus on what is important](#Focus-on-what-is-important)
   * [Be accountable and measure](#Be-accountable-and-measure)
@@ -7,6 +7,7 @@
   * [Embrace downtime and boredom](#Embrace-downtime-and-boredom)
   * [Structure your thoughts and ideas](#Structure-your-thoughts-and-ideas)
   * [Elimenate roadblocks](#Elimenate-roadblocks)
+- [Habits](#habits)
   
   
 Sources:
