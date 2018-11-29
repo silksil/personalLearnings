@@ -29,7 +29,7 @@ Essentialism is not about how to get more things done; it’s about how to get t
 
 The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you accomplish. Thus, focus on the goals that benefit you most, and focus on the the most important tasks that support a goal.
 
-### 2. Be clear on how you work (part 1)
+### 2. Use methodologies to make the right decisions
 careful review of the relevant variables for solving the problem
 
 For example, the main points you want to make in the chapter. Define the specific next-step question you need to answer using these variables. Example “How am I going to effectively open this chapter?,” you now have a specific target for your attention. The final step is to consolidate your gains by reviewing clearly the answer you identified.
@@ -74,8 +74,9 @@ When working it happens you encounter tasks that consume time, whereas this is u
 In order to assure you don't forget inefficiencies that come-up and you notice while working, you can create a file where you can note the inefficiency. Periodically(in my case weekly)I have scheduled a time slot that focuses on actually tackling these issues. 
 
 
+# Work contiounsly 
+Working contiounsly refers to maximizing the time spend on your desired activity. This is largely influend by the degree of **self-control**. As argued in the book Willpower Instict, self-control is probably the most vital virtue for getting what you aim for; it's a better predictor of academic success than intelligence and a stronger determinant of effective leadership than charisma. 
 
-## Mental strategies
 Self-control is a matter of understanding these different parts of ourselves, not fundamentally changing who we are. In the quest for self-control, the usual weapons we wield against ourselves—guilt, stress, and shame—don’t work. People who have the greatest self-control aren’t waging self-war. They have learned to accept and integrate these competing selves.
 
 ### Sepereate the real awards from the false awards
