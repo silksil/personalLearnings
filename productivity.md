@@ -48,8 +48,6 @@ Actions that I have taken to reduce distractions:
 - Use an headphone or earplugs to block out sound. 
 
 ### Embrace downtime and boredom
-Once your brain has become accustomed to on-demand distraction, Nass discovered, it’s hard to shake the addiction even when you want to concentrate. To put this more concretely: If every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where, like the “mental wrecks” in Nass’s research, it’s not ready for deep work—even if you regularly schedule time to practice this concentration.
-
 Downtime helps recharge the energy needed to work deeply
 The authors of this study, led by the Dutch psychologist Ap Dijksterhuis, set out to prove that some decisions are better left to your unconscious mind to untangle. 
 * Don’t take breaks from distraction. Instead take breaks from focus. 
