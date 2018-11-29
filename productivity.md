@@ -1,3 +1,8 @@
+## Introduction
+The differences between principles and practicalities, is that principles stay the same, whereas practicalities can change over time. For example, the principle 'Be clear on how you work' stays the same, but over time I might iterate on how this principles applies in the real-life aka in practice. 
+
+
+## Table of Contents
 - [Mental strategies](#Mental-strategies)
 - [Principles](#Principles)
   * [Be clear on how you work](#Be-clear-on-how-you-work)
@@ -7,14 +12,17 @@
   * [Embrace downtime and boredom](#Embrace-downtime-and-boredom)
   * [Structure your thoughts and ideas](#Structure-your-thoughts-and-ideas)
   * [Elimenate roadblocks](#Elimenate-roadblocks)
-- [Habits](#habits)
-  
+- [Practicities](#habits)
+
   
 Sources:
 - Deep Work by Cal Newport
 - Willpower Instict by 
 
 ## Mental strategies
+### Don't wait for inspiration
+Inspiration is for amateurs,” Close says. “The rest of us just show up and get to work.”  
+
 ### Snow-ball effect: 
 > A tree as big around as you can reach starts with a small seed; a thousand-mile journey starts with one step. — Lao-tse
 
@@ -25,6 +33,13 @@ When you have in mind to work on something, thoughts and internal obstacles can 
 ### Differentiate between "I want to" and "I have to"
 As argued in the section above, internal obstacles can prevent you from actually making things happen. One way these internal obstacles can occur is by having the idea that tasks are an obligation, or having the feeling it is imposed on you. In other words, that you have the feeling that you have to do it, without having the feeling that you want to do it. Now, of course, it can happen that you have to do tasks that you do not enjoy doing. Nonetheless, these tasks become so much easier if you consciously decide that you want to do it anyway. In order to rationalize these decisions, I often say to myself that it's simply part of life, or that the tasks at least teach me to be disciplined. For example, I do not enjoy cooking that much, but **I want to eat healthy**, so **I want** to prioritize time buying groceries and cooking. 
 
+### Commit
+“Auden believed that a life of such military precision was essential to his creativity, a way of taming the muse to his own schedule. “A modern stoic,” he observed, “knows that the surest way to discipline passion is to discipline time: decide what you want or ought to do during the day, then always do it at exactly the same moment every day, and passion will give you no trouble.” 
+
+“to sustain these true moments of insight one has to be highly disciplined, lead a disciplined life,” 
+
+
+
 ## Principles
 ### Be clear on how you work
 Being clear on how you work to 1.) **reduce the amount of tempetation** to shifts into reward-seeking mode and to 2.) **preserve mental energy** for work itsels instead of figuring what you need to do in the moment. As suggested by Cal Newport, this includes: 
@@ -33,10 +48,12 @@ Being clear on how you work to 1.) **reduce the amount of tempetation** to shift
 * How you’ll support your work (tools, checklists, food, notebooks)
 
 ### Focus on what is important
+Essentialism is not about how to get more things done; it’s about how to get the right things done. It doesn’t mean just doing less for the sake of less either. It is about making the wisest possible investment of your time and energy in order to operate at our highest point of contribution by doing only what is essential
+
 The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you accomplish. Thus, focus on the goals that benefit you most, and focus on the the most important tasks that support a goal.
 
-### Be accountable and measure
-Act on Lead Measures […] Lag measures describe the think you’re ultimately trying to improve. […] Lead measus, on the other hand, “measures the new behaviour that will drive success on the lag measures.” 
+### Focus on 1 task at a time
+The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you accomplish. Thus, focus on the goals that benefit you most, and focus on the the most important tasks that support a goal.
 
 ### Remove distractions
 Being distracted fucks up your brain:
@@ -47,6 +64,9 @@ Actions that I have taken to reduce distractions:
 - Turn off all notifications. 
 - Use a app like Freedom to block apps and websites, on both phone and desktop.
 - Use an headphone or earplugs to block out sound. 
+
+### Be accountable and measure
+Act on Lead Measures […] Lag measures describe the think you’re ultimately trying to improve. […] Lead measus, on the other hand, “measures the new behaviour that will drive success on the lag measures.” 
 
 ### Embrace downtime and boredom
 Downtime helps recharge the energy needed to work deeply
@@ -67,6 +87,8 @@ When working it happens you encounter tasks that consume time, whereas this is u
 * Automatically start all programs that are essential for being productive when starting the computer. 
 
 In order to assure you don't forget inefficiencies that come-up and you notice while working, you can create a file where you can note the inefficiency. Periodically(in my case weekly)I have scheduled a time slot that focuses on actually tackling these issues. 
+
+### Stay organized
 
 Practical
 
