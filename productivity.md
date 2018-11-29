@@ -20,9 +20,6 @@ Sources:
 - Willpower Instict by 
 
 ## Mental strategies
-### Don't wait for inspiration
-Inspiration is for amateurs,” Close says. “The rest of us just show up and get to work.”  
-
 ### Snow-ball effect: 
 > A tree as big around as you can reach starts with a small seed; a thousand-mile journey starts with one step. — Lao-tse
 
@@ -30,8 +27,14 @@ When you have in mind to work on something, thoughts and internal obstacles can 
 
 > Wisdom, Happiness, and Courage are not waiting somewhere out beyond sight at the end of a straight line; they’re part of a continuous cycle that begins right here. They’re not only the ending, but the beginning as well. The more it snows, the more it goes, the more it goes on snowing.
 
+
+
+## Commit
 ### Differentiate between "I want to" and "I have to"
 As argued in the section above, internal obstacles can prevent you from actually making things happen. One way these internal obstacles can occur is by having the idea that tasks are an obligation, or having the feeling it is imposed on you. In other words, that you have the feeling that you have to do it, without having the feeling that you want to do it. Now, of course, it can happen that you have to do tasks that you do not enjoy doing. Nonetheless, these tasks become so much easier if you consciously decide that you want to do it anyway. In order to rationalize these decisions, I often say to myself that it's simply part of life, or that the tasks at least teach me to be disciplined. For example, I do not enjoy cooking that much, but **I want to eat healthy**, so **I want** to prioritize time buying groceries and cooking. 
+
+### Don't wait for inspiration
+Inspiration is for amateurs,” Close says. “The rest of us just show up and get to work.”  
 
 ### Commit
 “Auden believed that a life of such military precision was essential to his creativity, a way of taming the muse to his own schedule. “A modern stoic,” he observed, “knows that the surest way to discipline passion is to discipline time: decide what you want or ought to do during the day, then always do it at exactly the same moment every day, and passion will give you no trouble.” 
