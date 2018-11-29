@@ -28,7 +28,13 @@ Sources:
 Being productive is not only about getting more things done; it’s also about getting the right things done. The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you accomplish. Thus, focus on the goals that are the wisest possible investment of your time and energy. 
 
 ### 2. Follow a methodology
-In order to increase the changes of having the desired outcome, it can be benefical to have defined the process or phases you should go through. How this methodology looks in practice depends highly on the context you are working in. For example, if you have litte information and have to make a decisions about a situation that is higly complex, it can be beneficialy to first diverge (e.g.) information, before converging. Some suggestions of methodologies you can follow in different contexts:
+You maybe be good in finishing tasks, but you if you are working on tasks that are unimportant this won't bring you closer to your goal. To define the correct tasks, you maybe have system that help you:
+- Find relevant information
+- Process information into ideas
+- Capture ideas
+- Make decisions. 
+
+Having a system, or methodology, can be benifical to assure you are beign effective. How this methodology looks in practice depends highly on the context you are working in. Some suggestions of methodologies you can follow in different contexts:
 
 - Online Marketing: GROWS process. 
 - Programming / project management: SCRUM
@@ -37,6 +43,8 @@ In order to increase the changes of having the desired outcome, it can be benefi
 - Writing ? 
 
 ### 3. Be accountable and measure
+Being accountable means taking ownership over tasks to achieve desired results. It creates a  Then, in order to assess wheter you have achieved the desired result, you c
+
 Act on Lead Measures […] Lag measures describe the think you’re ultimately trying to improve. […] Lead measus, on the other hand, “measures the new behaviour that will drive success on the lag measures.” 
 
 
