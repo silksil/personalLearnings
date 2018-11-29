@@ -7,9 +7,13 @@
   * [Embrace downtime and boredom](#Embrace-downtime-and-boredom)
   * [Structure your thoughts and ideas](#Structure-your-thoughts-and-ideas)
   * [Elimenate roadblocks](#Elimenate-roadblocks)
+  
+  
+Sources:
+- Deep Work by Cal Newport
+- Willpower Instict by 
 
-## Mindset 
-
+## Mental strategies
 ### Snow-ball effect: 
 > A tree as big around as you can reach starts with a small seed; a thousand-mile journey starts with one step. — Lao-tse
 
@@ -22,23 +26,27 @@ As argued in the section above, internal obstacles can prevent you from actually
 
 ## Habits
 ### Be clear on how you work
-By reducing the need to make decisions about deep work moment by moment, I can preserve more mental energy for the deep thinking itself. 
-* To make the most out of your deep work sessions, build rituals of the same level of strictness and idiosyncrasy as the important thinkers mentioned previously. 
-    * Where you’ll will work and for how long.
-    * How you’ll work once you start to work.
-    * How you’ll support your work.
-* […] don’t waste mental energy figuring out what you need in the moment
+Being clear on how you work servers two main purposes: 
+1. To **reduce the amount of tempetation** to shifts into reward-seeking mode. When it's not clear how you work, it's easier to be tempted to engage in activities that serve the immediate, short-term goals. 
+2. To **preserve mental energy** for work itsels as you don’t have to figure out what you need to do in the moment. 
+
+As suggested by Cal Newport, this includes: 
+* Where you’ll will work and for how long.
+* How you’ll work once you start to work. 
+* How you’ll support your work (tools, checklists, food, notebooks)
 
 ### Focus on what is important
-The more you try to do, the less you actually accomplish. Don’t try to say ‘no’ to the trivial Say ‘yes’ to the ambitious and crowd out everything else.
+The more you are trying to do, the less accomplish. Focus only on that alligns to your most important goals en leave the rest. 
 
 ### Be accountable and measure
 Act on Lead Measures […] Lag measures describe the think you’re ultimately trying to improve. […] Lead measus, on the other hand, “measures the new behaviour that will drive success on the lag measures.” 
 
 ### Remove distractions
+Actions that I have taken to reduce distractions:
 - Remove social media from your phone and other distracting apps.
-- Turn off notifications. 
+- Turn off all notifications. 
 - Use a app like Freedom to block apps and websites, on both phone and desktop.
+- Use an headphone or earplus to block out sound. 
 
 ### Embrace downtime and boredom
 Once your brain has become accustomed to on-demand distraction, Nass discovered, it’s hard to shake the addiction even when you want to concentrate. To put this more concretely: If every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where, like the “mental wrecks” in Nass’s research, it’s not ready for deep work—even if you regularly schedule time to practice this concentration.
@@ -61,5 +69,7 @@ When working it happens you encounter tasks that consume time, whereas this is u
 * Automatically start all programs that are essential for being productive when starting the computer. 
 
 In order to assure you don't forget inefficiencies that come-up and you notice while working, you can create a file where you can note the inefficiency. Periodically(in my case weekly)I have scheduled a time slot that focuses on actually tackling these issues. 
+
+Practical
 
 
