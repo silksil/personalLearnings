@@ -25,14 +25,16 @@ Sources:
 
 # Work effectively
 ### 1. Focus on what is important
-Essentialism is not about how to get more things done; it’s about how to get the right things done. It doesn’t mean just doing less for the sake of less either. It is about making the wisest possible investment of your time and energy in order to operate at our highest point of contribution by doing only what is essential
+Being productive is not only about getting more things done; it’s also about getting the right things done. The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you accomplish. Thus, focus on the goals that are the wisest possible investment of your time and energy. 
 
-The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you accomplish. Thus, focus on the goals that benefit you most, and focus on the the most important tasks that support a goal.
+### 2. Follow a methodology
+In order to increase the changes of having the desired outcome, it can be benefical to have defined the process or phases you should go through. How this methodology looks in practice depends highly on the context you are working in. For example, if you have litte information and have to make a decisions about a situation that is higly complex, it can be beneficialy to first diverge (e.g.) information, before converging. Some suggestions of methodologies you can follow in different contexts:
 
-### 2. Use methodologies to make the right decisions
-careful review of the relevant variables for solving the problem
-
-For example, the main points you want to make in the chapter. Define the specific next-step question you need to answer using these variables. Example “How am I going to effectively open this chapter?,” you now have a specific target for your attention. The final step is to consolidate your gains by reviewing clearly the answer you identified.
+- Online Marketing: GROWS process. 
+- Programming / project management: SCRUM
+- Brainstorming: Design thinking
+- Product/market fit: Lean Startup Canvus, The Value Proposition Canvas
+- Writing ? 
 
 ### 3. Be accountable and measure
 Act on Lead Measures […] Lag measures describe the think you’re ultimately trying to improve. […] Lead measus, on the other hand, “measures the new behaviour that will drive success on the lag measures.” 
