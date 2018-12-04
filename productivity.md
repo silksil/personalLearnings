@@ -36,25 +36,29 @@ This article is written with the help of books (i.e. The Willpower Instict, Focu
 - Product/market fit: Lean Startup Canvus, The Value Proposition Canvas
 
 # Work efficiently
-### 1. Plan
-Instead of figuring out in the moment what to do, you should defined ahead the goals and the tasks of a particular day. This reduces the chance of being tempted to do something else, and preserves mental energy for work itself. 
+### 1. Define tasks and plan
+Instead of figuring out in the moment what to do, you should defined ahead the goals and the tasks of a particular day. This reduces the chance of being tempted to do something else, and preserves mental energy for work itself. This includes planning:
 
-### 2. Focus on 1 task at a time
+### 2. 1 task at a time
 Multi-tasking doesn't work. If you switch between tasks it takes time and energy for the brain to adjust. 
 
-### 3. Remove distractions
+### 3. Disconnect
+This ability to fully disconnect, as opposed to the standard practice of sneaking in a few quick work e-mails, or checking news every hour, allows to get more things done that matter. 
+
+### 4. Remove disctractions
 Being distracted fucks up your brain:
-> Once your brain has become accustomed to on-demand distraction, Nass discovered, it’s hard to shake the addiction even when you want to concentrate. To put this more concretely: If every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where, like the “mental wrecks” in Nass’s research, it’s not ready for deep work—even if you regularly schedule time to practice this concentration. — Cal Newport
+> Once your brain has become accustomed to on-demand distraction, Nass discovered, it’s hard to shake the addiction even when you want to concentrate. — Cal Newport
 
 To remove descrations you can 1.) remove social media and other distracting apps, 2.) turn off notifications, 3.) use apps like Freedom to block content and 4.) use an headphone to block out sound. 
 
-### 4. Rest and plan distraction time
-Downtime helps recharge the energy needed to work more deeply. If you feel like surfing through the internet as a break, schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times. 
+### 4. Rest
+Resting servers three purposes:
+- Provides you with an opportunity recharge your energy.
+- You can us this time to use the Internet, and then avoid it altogether outside these times. 
+- 
 
-### 5. Take brake of focus
-
-### 5.  Tackling inefficiencies
-Schedule time where you define and tackling (e.g. by automating or simplifying) inefficiencies: 
+### 5. Automate and systemize
+Schedule time where you define and tackle inefficiencies: 
 * Make it easy to find information across platforms (Drive, Evernote, Desktop, Email etc.)
 * Password manager (Dashlane)
 * Automatically start all necessary programs when restarting the computer.
