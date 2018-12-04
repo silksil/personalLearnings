@@ -62,7 +62,7 @@ The authors of this study, led by the Dutch psychologist Ap Dijksterhuis, set ou
 * Don’t take breaks from distraction. Instead take breaks from focus. 
 * Schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times.
 
-### 5. Review
+### 5. Automate and simplify
 When working it happens you encounter tasks that consume time, whereas this is unnecessary,  or at least the time spend on these tasks can be reduced. In order to tackle this, it's a wise investment to prioritize time defining and tackling these inefficiencies. Examples of inefficiencies that can be tackled:
 * Making it easy to find information across different platforms (Drive, Evernote, Desktop, Email etc.)
 * Have a password manager (Dashlane)
