@@ -1,8 +1,8 @@
 # Introduction
 This article is divided in three sections to describe how to be and remain productive.
-1.) **Work effectively:** getting the right things done. 
-2.) **Work efficently:**  getting more things done through systems and rituals. 
-3.) **Work continously:** getting more things done through self-control.
+1. **Work effectively:** getting the right things done. 
+2. **Work efficently:**  getting more things done through systems and rituals. 
+3. **Work continously:** getting more things done through self-control.
 
 This article is written with the help of books (i.e. The Willpower Instict, Focus, Deep Work), blog posts (Ray, ) and personal experience. 
 
@@ -25,11 +25,11 @@ This article is written with the help of books (i.e. The Willpower Instict, Focu
 
 
 # Work effectively
-1.) **Focus on what is important**: Focus on the goals that are the wisest possible investment of your time and energy.The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you focus on what matters, and the less you accomplish.
+1. **Focus on what is important**: Focus on the goals that are the wisest possible investment of your time and energy.The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you focus on what matters, and the less you accomplish.
 
-2.) **Keep the bigger picture in mind**: Keeping the bigger picture in mind prevent you from working on stuff that doesn't matter.
+2. **Keep the bigger picture in mind**: Keeping the bigger picture in mind prevent you from working on stuff that doesn't matter.
 
-3.) **Follow a methodology** Systems and methodologies can help you to contiounsly guide in being effective. How this methodology looks in practice depends highly on the context you are working in, for example:
+3. **Follow a methodology** Systems and methodologies can help you to contiounsly guide in being effective. How this methodology looks in practice depends highly on the context you are working in, for example:
 - Online Marketing: GROWS process. 
 - Programming / project management: SCRUM
 - Brainstorming: Design thinking
