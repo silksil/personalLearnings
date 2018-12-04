@@ -32,7 +32,7 @@ Focus on the goals that are the wisest possible investment of your time and ener
 Keeping the bigger picture in mind prevent you from working on stuff that doesn't matter.
 
 ### 3. Follow a methodology
-Systems and methodologies can help you to contiounsly focus on what matters (so it should cover the two points above). How this methodology looks in practice depends highly on the context you are working in, for example:
+Systems and methodologies can help you to contiounsly guide in being effective. How this methodology looks in practice depends highly on the context you are working in, for example:
 
 - Online Marketing: GROWS process. 
 - Programming / project management: SCRUM
@@ -40,16 +40,13 @@ Systems and methodologies can help you to contiounsly focus on what matters (so 
 - Product/market fit: Lean Startup Canvus, The Value Proposition Canvas
 
 # Work efficiently
-### 1. Be clear on how you work (part 2)
-Being clear on how you work to 1.) **reduce the amount of tempetation** to shifts into reward-seeking mode and to 2.) **preserve mental energy** for work itself. As suggested by Cal Newport, this includes: 
-* Where you’ll will work and for how long.
-* How you’ll work once you start to work. 
-* How you’ll support your work (tools, checklists, food, notebooks)
+### 1. Plan
+Instead of figuring out in the moment what to do, you should defined ahead the goals and the tasks of a particular day. This reduces the chance of being tempted to do something else, and preserves mental energy for work itself. 
 
 ### 2. Focus on 1 task at a time
-The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you accomplish. Thus, focus on the goals that benefit you most, and focus on the the most important tasks that support a goal.
+Multi-tasking doesn't work. If you switch between tasks it takes time and energy for the brain to adjust. 
 
-### 3. Remove distractions and stay organized
+### 3. Remove distractions
 Being distracted fucks up your brain:
 > Once your brain has become accustomed to on-demand distraction, Nass discovered, it’s hard to shake the addiction even when you want to concentrate. To put this more concretely: If every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where, like the “mental wrecks” in Nass’s research, it’s not ready for deep work—even if you regularly schedule time to practice this concentration. — Cal Newport
 
@@ -65,7 +62,7 @@ The authors of this study, led by the Dutch psychologist Ap Dijksterhuis, set ou
 * Don’t take breaks from distraction. Instead take breaks from focus. 
 * Schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times.
 
-### 5. Elimenate roadblocks
+### 5. Review
 When working it happens you encounter tasks that consume time, whereas this is unnecessary,  or at least the time spend on these tasks can be reduced. In order to tackle this, it's a wise investment to prioritize time defining and tackling these inefficiencies. Examples of inefficiencies that can be tackled:
 * Making it easy to find information across different platforms (Drive, Evernote, Desktop, Email etc.)
 * Have a password manager (Dashlane)
@@ -120,4 +117,12 @@ Inspiration is for amateurs,” Close says. “The rest of us just show up and g
 “to sustain these true moments of insight one has to be highly disciplined, lead a disciplined life,” 
 
 The only person you can control is you. So focus on making yourself who you want to be:
+
+
+### 1. Be clear on how you work (part 2)
+Being clear on how you work to 1.) **reduce the amount of tempetation** to shifts into reward-seeking mode and to 2.) **preserve mental energy** for work itself. As suggested by Cal Newport, this includes: 
+* Where you’ll will work and for how long.
+* How you’ll work once you start to work. 
+* How you’ll support your work (tools, checklists, food, notebooks)
+
 
