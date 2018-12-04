@@ -1,9 +1,15 @@
-## Introduction
-The differences between principles and practicalities, is that principles stay the same, whereas practicalities can change over time. For example, the principle 'Be clear on how you work' stays the same, but over time I might iterate on how this principles applies in the real-life aka in practice. 
+# Introduction
+This article is divided in three sections to describe how to be and remain productive.
+1.) **Work effectively:** getting the right things done. 
+2.) **Work efficently:**  getting more things done through systems and rituals. 
+3.) **Work continously:** getting more things done through self-control.
 
-### Why
-#### To achieve your goals
-When pit against other virtues, willpower comes out on top. Self-control is a better predictor of academic success than intelligence (take that, SATs), a stronger determinant of effective leadership than charisma (sorry, Tony Robbins), and more important for marital bliss than empathy (yes, the secret to lasting marriage may be learning how to keep your mouth shut).
+This article is written with the help of books (i.e. The Willpower Instict, Focus, Deep Work), blog posts (Ray, ) and personal experience. 
+
+## Why striving for being productive?
+1. To achieve your goals
+2. To keep up with our promises.
+3. Because a focused life is a meaningfull life.
 
 ## Table of Contents
 - [Mental strategies](#Mental-strategies)
@@ -17,40 +23,25 @@ When pit against other virtues, willpower comes out on top. Self-control is a be
   * [Elimenate roadblocks](#Elimenate-roadblocks)
 - [Practicities](#habits)
 
-  
-Sources:
-- Deep Work by Cal Newport
-- Willpower Instict by 
-
 
 # Work effectively
 ### 1. Focus on what is important
-Being productive is not only about getting more things done; it’s also about getting the right things done. The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you accomplish. Thus, focus on the goals that are the wisest possible investment of your time and energy. 
+Focus on the goals that are the wisest possible investment of your time and energy.The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you focus on what matters, and the less you accomplish.
 
-### 2. Follow a methodology
-You maybe be good in finishing tasks, but you if you are working on tasks that are unimportant this won't bring you closer to your goal. To define the correct tasks, you maybe have system that help you:
-- Find relevant information
-- Process information into ideas
-- Capture ideas
-- Make decisions. 
+### 2. Keep the bigger picture in mind
+Keeping the bigger picture in mind prevent you from working on stuff that doesn't matter.
 
-Having a system, or methodology, can be benifical to assure you are beign effective. How this methodology looks in practice depends highly on the context you are working in. Some suggestions of methodologies you can follow in different contexts:
+### 3. Follow a methodology
+Systems and methodologies can help you to contiounsly focus on what matters (so it should cover the two points above). How this methodology looks in practice depends highly on the context you are working in, for example:
 
 - Online Marketing: GROWS process. 
 - Programming / project management: SCRUM
 - Brainstorming: Design thinking
 - Product/market fit: Lean Startup Canvus, The Value Proposition Canvas
-- Writing ? 
-
-### 3. Be accountable and measure
-Being accountable means taking ownership over tasks to achieve desired results. It creates a  Then, in order to assess wheter you have achieved the desired result, you c
-
-Act on Lead Measures […] Lag measures describe the think you’re ultimately trying to improve. […] Lead measus, on the other hand, “measures the new behaviour that will drive success on the lag measures.” 
-
 
 # Work efficiently
 ### 1. Be clear on how you work (part 2)
-Being clear on how you work to 1.) **reduce the amount of tempetation** to shifts into reward-seeking mode and to 2.) **preserve mental energy** for work itsels instead of figuring what you need to do in the moment. As suggested by Cal Newport, this includes: 
+Being clear on how you work to 1.) **reduce the amount of tempetation** to shifts into reward-seeking mode and to 2.) **preserve mental energy** for work itself. As suggested by Cal Newport, this includes: 
 * Where you’ll will work and for how long.
 * How you’ll work once you start to work. 
 * How you’ll support your work (tools, checklists, food, notebooks)
