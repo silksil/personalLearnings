@@ -4,23 +4,12 @@ This article is divided in three sections to describe how to be and remain produ
 2. **Work efficently:**  getting more things done through systems and rituals. 
 3. **Work continously:** getting more things done through self-control.
 
-This article is written with the help of books (i.e. The Willpower Instict, Focus, Deep Work), blog posts (Ray, ) and personal experience. 
-
-## Why striving for being productive?
-1. To achieve your goals
-2. To keep up with our promises.
-3. Because a focused life is a meaningfull life.
+This article is written with the help of books (i.e. The Willpower Instict, Focus, Deep Work) and through personal experience. 
 
 ## Table of Contents
 - [Mental strategies](#Mental-strategies)
 - [Principles](#Principles)
   * [Be clear on how you work](#Be-clear-on-how-you-work)
-  * [Focus on what is important](#Focus-on-what-is-important)
-  * [Be accountable and measure](#Be-accountable-and-measure)
-  * [Remove distractions](#Remove-distractions)
-  * [Embrace downtime and boredom](#Embrace-downtime-and-boredom)
-  * [Structure your thoughts and ideas](#Structure-your-thoughts-and-ideas)
-  * [Elimenate roadblocks](#Elimenate-roadblocks)
 - [Practicities](#habits)
 
 
@@ -39,26 +28,26 @@ This article is written with the help of books (i.e. The Willpower Instict, Focu
 ### 1. Plan
 Instead of figuring out in the moment what to do, you should defined ahead the goals and the tasks of a particular day. This reduces the chance of being tempted to do something else, and preserves mental energy for work itself.
 
-### 2. 1 task at a time
-Multi-tasking doesn't work:
-> People who multitask all the time can’t filter out irrelevancy. They can’t manage a working memory. They’re chronically distracted. They initiate much larger parts of their brain that are irrelevant to the task at hand…they’re pretty much mental wrecks.
+### 2. Don't multitask
+The ability to disconnect, as opposed to the standard practice of sneaking in a few quick work e-mails, or checking news every hour, allows to get more things done that matter and prevent you from getting a chaotic brain: 
+> People who multitask all the time can’t filter out irrelevancy. They can’t manage a working memory. They’re chronically distracted. They initiate much larger parts of their brain that are irrelevant to the task at hand…they’re pretty much mental wrecks. — Clifford Nas
 
-### 3. Disconnect
-This ability to fully disconnect, as opposed to the standard practice of sneaking in a few quick work e-mails, or checking news every hour, allows to get more things done that matter. 
+### 3. Remove disctractions
+As suggested in the section above, distractions fuck up your brain:
+> [...] it’s hard to shake the addiction even when you want to concentrate. To put this more concretely: If every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where, like the “mental wrecks” in Nass’s research. — Cal Newport
 
-### 4. Remove disctractions
-Being distracted fucks up your brain:
-> Once your brain has become accustomed to on-demand distraction, Nass discovered, it’s hard to shake the addiction even when you want to concentrate. — Cal Newport
+To reduce the chances of being distracted you can 1.) remove social media and other distracting apps, 2.) turn off notifications, 3.) use apps like Freedom to block content and 4.) use an headphone to block out sound. 
 
-To remove descrations you can 1.) remove social media and other distracting apps, 2.) turn off notifications, 3.) use apps like Freedom to block content and 4.) use an headphone to block out sound. 
+### 4. Use your unconscious
+Decisions that require the application of strict rules, the conscious mind must be involved (e.g. doing math). For decisions that involve large amounts of information and multiple vague, and perhaps even conflicting, constraints, your unconscious mind is well suited to tackle the issue.
 
-### 4. Rest
-Resting servers three purposes:
+### 5. Rest
+Resting serves three purposes:
 - Provides you with an opportunity recharge your energy.
 - You can us this time to use the Internet, and then avoid it altogether outside these times. 
-- 
+- To let your unconscious work on a decisions. 
 
-### 5. Automate and systemize
+### 6. Automate and systemize
 Schedule time where you define and tackle inefficiencies: 
 * Make it easy to find information across platforms (Drive, Evernote, Desktop, Email etc.)
 * Password manager (Dashlane)
