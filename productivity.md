@@ -25,22 +25,23 @@ This article is written with the help of books (i.e. The Willpower Instict, Focu
 
 
 # Work effectively
-1. **Focus on what is important**: Focus on the goals that are the wisest possible investment of your time and energy.The more you are trying to do, the more easy you get distracted or are overwhelmed, the less you focus on what matters, and the less you accomplish.
+1. **Focus on what is important**: Focus on the goals that are the wisest possible investment of your time and energy. The more you are putting on your plate, the more easy you get distracted or are overwhelmed, the less you focus on what matters, and the less you accomplish.
 
 2. **Keep the bigger picture in mind**: Keeping the bigger picture in mind prevent you from working on stuff that doesn't matter.
 
-3. **Follow a methodology** Systems and methodologies can help you to contiounsly guide in being effective. How this methodology looks in practice depends highly on the context you are working in, for example:
+3. **Follow a methodology** Systems and methodologies can help you to contiounsly guide you. How this methodology looks in practice depends highly on the context you are working in, for example:
 - Online Marketing: GROWS process. 
 - Programming / project management: SCRUM
 - Brainstorming: Design thinking
 - Product/market fit: Lean Startup Canvus, The Value Proposition Canvas
 
 # Work efficiently
-### 1. Define tasks and plan
-Instead of figuring out in the moment what to do, you should defined ahead the goals and the tasks of a particular day. This reduces the chance of being tempted to do something else, and preserves mental energy for work itself. This includes planning:
+### 1. Plan
+Instead of figuring out in the moment what to do, you should defined ahead the goals and the tasks of a particular day. This reduces the chance of being tempted to do something else, and preserves mental energy for work itself.
 
 ### 2. 1 task at a time
-Multi-tasking doesn't work. If you switch between tasks it takes time and energy for the brain to adjust. 
+Multi-tasking doesn't work:
+> People who multitask all the time can’t filter out irrelevancy. They can’t manage a working memory. They’re chronically distracted. They initiate much larger parts of their brain that are irrelevant to the task at hand…they’re pretty much mental wrecks.
 
 ### 3. Disconnect
 This ability to fully disconnect, as opposed to the standard practice of sneaking in a few quick work e-mails, or checking news every hour, allows to get more things done that matter. 
