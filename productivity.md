@@ -46,30 +46,21 @@ Multi-tasking doesn't work. If you switch between tasks it takes time and energy
 Being distracted fucks up your brain:
 > Once your brain has become accustomed to on-demand distraction, Nass discovered, it’s hard to shake the addiction even when you want to concentrate. To put this more concretely: If every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where, like the “mental wrecks” in Nass’s research, it’s not ready for deep work—even if you regularly schedule time to practice this concentration. — Cal Newport
 
-Actions that I have taken to reduce distractions:
-- Remove social media from your phone and other distracting apps.
-- Turn off all notifications. 
-- Use a app like Freedom to block apps and websites, on both phone and desktop.
-- Use an headphone or earplugs to block out sound. 
+To remove descrations you can 1.) remove social media and other distracting apps, 2.) turn off notifications, 3.) use apps like Freedom to block content and 4.) use an headphone to block out sound. 
 
-### 4.Rest
-Downtime helps recharge the energy needed to work deeply
-The authors of this study, led by the Dutch psychologist Ap Dijksterhuis, set out to prove that some decisions are better left to your unconscious mind to untangle. 
-* Don’t take breaks from distraction. Instead take breaks from focus. 
-* Schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times.
+### 4. Rest and plan distraction time
+Downtime helps recharge the energy needed to work more deeply. If you feel like surfing through the internet as a break, schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times. 
 
-### 5. Automate and simplify
-When working it happens you encounter tasks that consume time, whereas this is unnecessary,  or at least the time spend on these tasks can be reduced. In order to tackle this, it's a wise investment to prioritize time defining and tackling these inefficiencies. Examples of inefficiencies that can be tackled:
-* Making it easy to find information across different platforms (Drive, Evernote, Desktop, Email etc.)
-* Have a password manager (Dashlane)
-* A tool that automatically fils in forms with contact info (Dashlane)
-* Automatically start all programs that are essential for being productive when starting the computer. 
+### 5. Take brake of focus
 
-In order to assure you don't forget inefficiencies that come-up and you notice while working, you can create a file where you can note the inefficiency. Periodically(in my case weekly)I have scheduled a time slot that focuses on actually tackling these issues. 
-
+### 5.  Tackling inefficiencies
+Schedule time where you define and tackling (e.g. by automating or simplifying) inefficiencies: 
+* Make it easy to find information across platforms (Drive, Evernote, Desktop, Email etc.)
+* Password manager (Dashlane)
+* Automatically start all necessary programs when restarting the computer.
 
 # Work contiounsly 
-Working contiounsly refers to maximizing the time spend on your desired activity. This is largely influend by the degree of **self-control**. As argued in the book Willpower Instict, self-control is probably the most vital virtue for getting what you aim for; it's a better predictor of academic success than intelligence and a stronger determinant of effective leadership than charisma. 
+In book Willpower Instict, it is argued that the self-control is the most vital virtue for getting what you aim for; it's a better predictor of academic success than intelligence and a stronger determinant of effective leadership than charisma. 
 
 Self-control is a matter of understanding these different parts of ourselves, not fundamentally changing who we are. In the quest for self-control, the usual weapons we wield against ourselves—guilt, stress, and shame—don’t work. People who have the greatest self-control aren’t waging self-war. They have learned to accept and integrate these competing selves.
 
