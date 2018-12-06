@@ -38,7 +38,7 @@ As suggested in the section above, distractions fuck up your brain:
 
 To reduce the chances of being distracted you can 1.) remove social media and other distracting apps, 2.) turn off notifications, 3.) use apps like Freedom to block content and 4.) use an headphone to block out sound. 
 
-### 4. Use your unconscious
+### 4. Use your unconscious to solve problems
 Decisions that require the application of strict rules, the conscious mind must be involved (e.g. doing math). For decisions that involve large amounts of information and multiple vague, and perhaps even conflicting, constraints, your unconscious mind is well suited to tackle the issue.
 
 ### 5. Rest
@@ -53,11 +53,11 @@ Schedule time where you define and tackle inefficiencies:
 * Password manager (Dashlane)
 * Automatically start all necessary programs when restarting the computer.
 
-# Work contiounsly 
-In book Willpower Instict, it is argued that the self-control is the most vital virtue for getting what you aim for; it's a better predictor of academic success than intelligence and a stronger determinant of effective leadership than charisma. Luckilyk, self-control is like a muscle. It gets tired from use, but regular exercise makes it stronger. Our challenge is to train like an intelligent athlete, pushing our limits but also pacing ourselves.
+# Work disciplinary
+Self-control is one of the most vital virtue for getting what you aim for; it's a better predictor of academic success than intelligence and a stronger determinant of effective leadership than charisma. Luckily, self-control works like a muscle. It gets tired from use, but regular exercise makes it stronger. Below are some principles that guide you in being disciplinary. 
 
 ### Sepereate the real awards from the false awards
-> How does the reward system compel us to act? When the brain recognizes an opportunity for reward, it releases a neurotransmitter called dopamine. Dopamine tells the rest of the brain what to pay attention to and what to get our greedy little hands on. A dopamine rush doesn’t create happiness itself—the feeling is more like arousal. We feel alert, awake, and captivated. We recognize the possibility of feeling good and are willing to work for that feeling. Desire doesn’t always make us feel good—sometimes it makes us feel downright rotten. That’s because dopamine’s primary function is to make us pursue happiness, not to make us happy. If we are to have any self-control, we need to separate the real rewards that give our lives meaning from the false rewards that keep us distracted and addicted.
+If we recognize a reward -- i.e. a possibility to feel good -- dopamine is released. It causes us to feel alert, awake and aroused, which can help you in achieving your goal. Nonetheless, it can make us feel restless and distracted too by steering us into immediate gratification. Thus, separate the real rewards that give our lives meaning from the false rewards that keep us distracted and addicted.
     
 ### Have self-compassion
 When we fail to pursue the activities that we aime to pursue, there is a tendency to crisize ourself, which works counterproductive on our self-control
