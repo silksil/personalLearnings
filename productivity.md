@@ -4,7 +4,7 @@ This article is divided in three sections to describe how to be and remain produ
 2. **Work efficently:**  getting more things done through systems and rituals. 
 3. **Work continously:** getting more things done through self-control.
 
-This article is written with the help of books (i.e. The Willpower Instict, Focus, Deep Work) and through personal experience. 
+This article is written with the help of books (i.e. The Willpower Instict, Focus, Deep Work, The Doodle Revolution) and through personal experience. 
 
 ## Table of Contents
 - [Mental strategies](#Mental-strategies)
@@ -46,14 +46,17 @@ To reduce the chances of being distracted you can 1.) remove social media and ot
 #### 2.4 Use your unconscious to solve problems
 Decisions that require the application of strict rules, the conscious mind must be involved (e.g. doing math). For decisions that involve large amounts of information and multiple vague, and perhaps even conflicting, constraints, your unconscious mind is well suited to tackle the issue.
 
-#### 2.5 Rest
+#### 2.5 Doodle & visualize
+Companies like Facebook and Google use doodling to work more productively and creatively. [Science suggest](https://www.fastcompany.com/3024420/how-to-turn-your-mindless-doodles-into-productivity-enhancers)people who doodle recall more information and have a deeper understanding of a concept and are better able to communicate it to others. 
+
+#### 2.6 Rest
 Resting serves three purposes:
 - Provides you with an opportunity recharge your energy.
 - You can us this time to use the Internet, and then avoid it altogether outside these times. 
 - To let your unconscious work on a decisions. 
 
-#### 2.6 Automate and systemize
-Schedule time where you define and tackle (i.e. automate and systemize) inefficiencies: 
+#### 2.7 Automate and systemize
+Schedule time where you define and tackle (i.e. automate and systemize) inefficiencies. Examples:
 * Make it easy to find information across platforms (Drive, Evernote, Desktop, Email etc.)
 * Password manager (Dashlane)
 * Automatically start all necessary programs when restarting the computer.
