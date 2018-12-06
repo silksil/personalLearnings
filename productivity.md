@@ -63,7 +63,7 @@ If we recognize a reward -- i.e. a possibility to feel good, such as the sight o
     
 #### 3.2 Have self-compassion
 When we fail to pursue the activities that we aim to pursue, there is a tendency to criticize yourself, which works counterproductive on our self-control:
-> Study after study shows that self-criticism is consistently associated with less motivation and worse self-control. It is also one of the single biggest predictors of depression, which drains both “I will” power and “I want” power. In contrast, self-compassion—being supportive and kind to yourself, especially in the face of stress and failure—is associated with more motivation and better self-control.
+> Study after study shows that self-criticism is consistently associated with less motivation and worse self-control. It is also one of the single biggest predictors of depression, which drains both “I will” power and “I want” power. In contrast, self-compassion—being supportive and kind to yourself, especially in the face of stress and failure—is associated with more motivation and better self-control. — Kelly McGonigal
     
 #### 3.3 Be aware of the tricks that your mind tends to plays
 - **Moral licensing:** If you do something good, you feel good about yourself. This increases your trust your impulses—which can increase the tendency to give yourself permission to do something bad.
