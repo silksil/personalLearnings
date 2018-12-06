@@ -29,14 +29,16 @@ Systems and methodologies can help you to contiounsly guide you. How this method
 
 # 2. Work efficiently
 #### 2.1 Define tasks & Plan
-Instead of figuring out in the moment what to do, you should defined ahead the goals and the tasks of a particular day. This reduces the chance of being tempted to do something else, and preserves mental energy for work itself.
+Instead of figuring out in the moment what to do, you should figure this out beforehand. This reduces the chance of being tempted to do something else, and preserves mental energy for work itself. For me, this means having a weekly planning in which I:
+- Define the tasks of a project / goal.
+- Plan on which day and time you gonna work on what.
 
 #### 2.2 Don't multitask
-The ability to disconnect, as opposed to the standard practice of sneaking in a few quick work e-mails, or checking news every hour, allows to get more things done that matter and prevent you from getting a chaotic brain: 
+The ability to disconnect, as opposed to the standard practice of answering a message, or checking news every hour, allows you to get more things done that matter and prevent you from getting a chaotic brain: 
 > People who multitask all the time can’t filter out irrelevancy. They can’t manage a working memory. They’re chronically distracted. They initiate much larger parts of their brain that are irrelevant to the task at hand…they’re pretty much mental wrecks. — Clifford Nas
 
 #### 2.3 Remove disctractions
-As suggested in the section above, distractions fuck up your brain:
+As suggested in the section above, multi-tasking fucks up your brain. This includes sneaking in answering a text or emails:
 > [...] it’s hard to shake the addiction even when you want to concentrate. To put this more concretely: If every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where, like the “mental wrecks” in Nass’s research. — Cal Newport
 
 To reduce the chances of being distracted you can 1.) remove social media and other distracting apps, 2.) turn off notifications, 3.) use apps like Freedom to block content and 4.) use an headphone to block out sound. 
