@@ -6,13 +6,6 @@ This article is divided in three sections to describe how to be and remain produ
 
 This article is written with the help of books (i.e. The Willpower Instict, Focus, Deep Work, The Doodle Revolution) and through personal experience. 
 
-## Table of Contents
-- [Mental strategies](#Mental-strategies)
-- [Principles](#Principles)
-  * [Be clear on how you work](#Be-clear-on-how-you-work)
-- [Practicities](#habits)
-
-
 # 1. Work effectively
 #### 1.1 Focus on what is important
 Focus on the goals that are the wisest possible investment of your time and energy. The more you are putting on your plate, the more easy you get distracted or are overwhelmed, the less you focus on what matters, and the less you accomplish.
