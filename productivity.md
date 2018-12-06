@@ -15,7 +15,7 @@ Focus on the goals that are the wisest possible investment of your time and ener
 Keeping the bigger picture in mind prevent you from working on stuff that doesn't matter. Practically, this could mean having year goals, monthly goals, weekly goals and having regular sections where you review these goals. 
 
 #### 1.3 Follow a methodology
-Systems and methodologies can help you to continuously guide you. How this methodology looks in practice depends highly on the context you are working in, for example:
+Systems and methodologies can support you in pointing you towards the right direction. How this methodology looks in practice depends highly on the context you are working in, for example:
 - Online Marketing: GROWS process. 
 - Programming/project management: SCRUM
 - Brainstorming: Design thinking
