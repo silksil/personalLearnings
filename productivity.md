@@ -41,7 +41,7 @@ To reduce the chances of being distracted you can 1.) remove social media and ot
 Decisions that require the application of strict rules, the conscious mind is required (e.g. doing math). Decisions that involve large amounts of information and vague, and perhaps even conflicting, constraints, your unconscious mind might be better in solving it. 
 
 #### 2.5 Doodle & visualize
-Companies like Facebook and Google use doodling to work more productively and creatively. [Science suggest](https://www.fastcompany.com/3024420/how-to-turn-your-mindless-doodles-into-productivity-enhancers)people who doodle recall more information, have a deeper understanding of a concept and are better able to communicate it to others. 
+Companies like Facebook and Google use doodling to work more productively and creatively. [Science suggest](https://www.fastcompany.com/3024420/how-to-turn-your-mindless-doodles-into-productivity-enhancers) people who doodle recall more information, have a deeper understanding of a concept and are better able to communicate it to others. 
 
 #### 2.6 Rest
 Resting serves three purposes:
