@@ -65,7 +65,7 @@ If we recognize a reward -- i.e. a possibility to feel good, such as the sight o
 When we fail to pursue the activities that we aim to pursue, there is a tendency to criticize yourself, which works counterproductive on our self-control:
 > Study after study shows that self-criticism is consistently associated with less motivation and worse self-control. It is also one of the single biggest predictors of depression, which drains both “I will” power and “I want” power. In contrast, self-compassion—being supportive and kind to yourself, especially in the face of stress and failure—is associated with more motivation and better self-control.
     
-#### 3.3 Be aware of the tricks that your mind plays
+#### 3.3 Be aware of the tricks that your mind tends to plays
 - **Moral licensing:** If you do something good, you feel good about yourself. This increases your trust your impulses—which can increase the tendency to give yourself permission to do something bad.
 - **Goal dreaming:** A mind can get so excited about the opportunity to act on a goal, it mistakes that opportunity with the satisfaction of actually accomplished the goal, causing us to neglect actually working on the actual goal. 
 - **Unrealistic optimism** The decision to change is the ultimate in instant gratification—you get all the good feelings before anything’s been done. But if you fail to meet expectations triggers the same old guilt, depression, and self-doubt, causing people to abandon their efforts altogether. Only after we feel out of control and in need of another hit of hope, we will once again vow to change. 
