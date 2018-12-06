@@ -56,24 +56,14 @@ Schedule time where you define and tackle inefficiencies:
 # Work disciplinary
 Self-control is one of the most vital virtue for getting what you aim for; it's a better predictor of academic success than intelligence and a stronger determinant of effective leadership than charisma. Luckily, self-control works like a muscle. It gets tired from use, but regular exercise makes it stronger. Below are some principles that guide you in being disciplinary. 
 
-### Sepereate the real awards from the false awards
-If we recognize a reward -- i.e. a possibility to feel good -- dopamine is released. It causes us to feel alert, awake and aroused, which can help you in achieving your goal. Nonetheless, it can make us feel restless and distracted too by steering us into immediate gratification. Thus, separate the real rewards that give our lives meaning from the false rewards that keep us distracted and addicted.
+### Sepereate real awards from false awards
+If we recognize a reward -- i.e. a possibility to feel good, such as -- sight of tasty food, the smell of coffee, discount, a smile from a sexy stranger etc. -- dopamine is released. When dopamine hijacks your attention, the mind becomes fixated on obtaining or repeating whatever triggered it. It causes us to feel alert, awake and aroused, which can help you in achieving your goal. Nonetheless, it can make us feel restless and distracted too by steering us into immediate gratification. Thus, separate the real rewards that give our lives meaning from the false rewards that keep us distracted and addicted.
     
 ### Have self-compassion
-When we fail to pursue the activities that we aime to pursue, there is a tendency to crisize ourself, which works counterproductive on our self-control
+When we fail to pursue the activities that we aime to pursue, there is a tendency to crisize ourself, which works counterproductive on our self-control:
 > Study after study shows that self-criticism is consistently associated with less motivation and worse self-control. It is also one of the single biggest predictors of depression, which drains both “I will” power and “I want” power. In contrast, self-compassion—being supportive and kind to yourself, especially in the face of stress and failure—is associated with more motivation and better self-control.
     
 ### Beaware of the tricks that your mind play
-Moral licensing: When it comes to right and wrong, most of us are not striving for moral perfection. We just want to feel good enough—which then gives us permission to do whatever we want.
-
-Sometimes the mind gets so excited about the opportunity to act on a goal, it mistakes that opportunity with the satisfaction of having actually accomplished the goal. And with the goal to make a healthy choice out of the way, the unmet goal—immediate pleasure—takes priority. Unrealistic optimism may make us feel good in the moment, but it sets us up to feel much worse later on. The decision to change is the ultimate in instant gratification—you get all the good feelings before anything’s been done. But the challenge of actually making a change can be a rude awakening, and the initial rewards are rarely as transformative as our most hopeful fantasies (“I lost five pounds, and I still have a crappy job!”)
-
-### Snow-ball effect: 
-> A tree as big around as you can reach starts with a small seed; a thousand-mile journey starts with one step. — Lao-tse
-
-When you have in mind to work on something, thoughts and internal obstacles can prevent you from actually making things happen. The longer you wait and the more you unconsciously think, the bigger the obstacle to actually start and make things happen. Thus, often the best way to make things happen is to **just start rolling**, and remember that there is no beginning and end, but only a **continuous cycle**. In the words of Benjamin Hoff: 
-
-> Wisdom, Happiness, and Courage are not waiting somewhere out beyond sight at the end of a straight line; they’re part of a continuous cycle that begins right here. They’re not only the ending, but the beginning as well. The more it snows, the more it goes, the more it goes on snowing.
-
-
-
+- **Moral licensing:** When you do something good, you feel good about yourself. This means you’re more likely to trust your impulses—which often means giving yourself permission to do something bad.
+- **Goal dreaming:** Sometimes the mind gets so excited about the opportunity to act on a goal, it mistakes that opportunity with the satisfaction of having actually accomplished the goal. And with the goal to make a healthy choice out of the way, the unmet goal—immediate pleasure—takes priority.
+- **Unrealistic optimism** The decision to change is the ultimate in instant gratification—you get all the good feelings before anything’s been done. But the challenge of actually making a change can be a rude awakening, and the initial rewards are rarely as transformative as our most hopeful fantasies (“I lost five pounds, and I still have a crappy job!”)
