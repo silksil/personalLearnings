@@ -74,11 +74,13 @@ When we fail to pursue the activities that we aim to pursue, there is a tendency
 #### Daily
 | Time  |      Activity      |
 |----------|:-------------:|
-| am 09:00-12:00 |  Work|
-| pm 12:00-12:30 |    Eat    |
-| pm 12:00-12:45|    Email + messaging    |
-| pm 3:00-3:30|    Break   |
-| pm 3:30-5:00|    Work   |
+| 09:00am-12:00pm|  Work|
+| 12:00pm-12:30pm |    Eat + Break    |
+| 12:00pm-12:45pm|    Email + Messaging    |
+| 3:00pm-3:15pm|    Break   |
+| 3:15pm-4:45pm|    Work   |
+| 3:45pm-5:00pm|    Clean + Review + Plan   |
+
 #### Tools
 - Calendar
 - Asana
