@@ -1,6 +1,6 @@
 
 # Introduction
-This article is divided into three sections to describe how to be productive:
+This article is divided into three sections to describe how I stay productive:
 1. **Work effectively:** getting the right things done. 
 2. **Work efficiently:**  getting more things done through systems and rituals. 
 3. **Work disciplinary:** getting more things done through self-control.
@@ -68,5 +68,33 @@ When we fail to pursue the activities that we aim to pursue, there is a tendency
 #### 3.3 Be aware of the tricks that your mind tends to plays
 - **Moral licensing:** If you do something good, you feel good about yourself. This increases your trust your impulses—which can increase the tendency to give yourself permission to do something bad.
 - **Goal dreaming:** A mind can get so excited about the opportunity to act on a goal, it mistakes that opportunity with the satisfaction of actually accomplished the goal, causing us to neglect actually working on the actual goal. 
-- **Unrealistic optimism** The decision to change is the ultimate in instant gratification—you get all the good feelings before anything’s been done. But if you fail to meet expectations triggers the same old guilt, depression, and self-doubt, causing people to abandon their efforts altogether. Only after we feel out of control and in need of another hit of hope, we will once again vow to change. 
+- **Unrealistic optimism** The decision to change is the ultimate in instant gratification—you get all the good feelings before anything’s been done. But if you fail to meet expectations triggers the same old guilt, depression, and self-doubt, causing people to abandon their efforts altogether. Only after we feel out of control and in need of another hit of hope, we will once again vow to change.
+
+## Work
+#### Daily
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+#### Tools
+- Calendar
+- Asana
+- Evernote
+
+#### Monthly
+- Review
+- Plan 
+
+#### Weekly
+- Review
+- Plan 
+
+#### Daily
+
+
+
+
+
+
  
