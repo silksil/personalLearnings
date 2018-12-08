@@ -72,11 +72,13 @@ When we fail to pursue the activities that we aim to pursue, there is a tendency
 
 ## Work
 #### Daily
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Time  |      Activity      |
+|----------|:-------------:|
+| am 09:00-12:00 |  Work|
+| pm 12:00-12:30 |    Eat    |
+| pm 12:00-12:45|    Email + messaging    |
+| pm 3:00-3:30|    Break   |
+| pm 3:30-5:00|    Work   |
 #### Tools
 - Calendar
 - Asana
