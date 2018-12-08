@@ -71,6 +71,15 @@ When we fail to pursue the activities that we aim to pursue, there is a tendency
 - **Unrealistic optimism** The decision to change is the ultimate in instant gratification—you get all the good feelings before anything’s been done. But if you fail to meet expectations triggers the same old guilt, depression, and self-doubt, causing people to abandon their efforts altogether. Only after we feel out of control and in need of another hit of hope, we will once again vow to change.
 
 ## Work
+### Tools
+The main tools that use to support my work:
+- **Google sheets: yearly & monthly planning** To define yearly and monthly goals. 
+- **Asana: weekly & daily planning:** 1.) To create projects in relation to the monthly goals and define the tasks. 2.) Used to define the tasks I want to complete weekly and daily. 
+- **Calendar (weekly, daily and hourly planning)**:
+- **Notebook: daily planning, make notes & doodle**
+- **Evernote: make and organize notes** 
+
+
 #### Daily
 | Time  |      Activity      |
 |----------|:-------------:|
@@ -81,10 +90,8 @@ When we fail to pursue the activities that we aim to pursue, there is a tendency
 | 3:15pm-4:45pm|    Work   |
 | 3:45pm-5:00pm|    Clean + Review + Plan   |
 
-#### Tools
-- Calendar
-- Asana
-- Evernote
+#### Weekly
+
 
 #### Monthly
 - Review
