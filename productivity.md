@@ -74,10 +74,10 @@ When we fail to pursue the activities that we aim to pursue, there is a tendency
 ### Tools
 The main tools that use to support my work:
 ##### Planning
-- **Google sheets: yearly & monthly** To define yearly and monthly goals. 
-- **Asana: weekly & daily** To create projects in relation to the monthly goals and define the tasks. Additionaly, I use it to define the tasks I want to complete weekly and daily. 
-- **Calendar: weekly, daily and hourly** Is used to include appointments. In some cases it also used to define during what time periods I am working on what tasks. 
-- **Notebook: daily**: To have an overview of the tasks that I have assigned to myself in Asana. 
+- **Google sheets(yearly & monthly):** To define yearly and monthly goals. 
+- **Task manager/Asana(weekly & daily):** To create projects in relation to the monthly goals and define the tasks. Additionaly, I use it to define the tasks I want to complete weekly and daily. 
+- **Calendar(weekly, daily and hourly):** Is used to include appointments. In some cases it also used to define during what time periods I am working on what tasks. 
+- **Notebook(daily)**: I write also write down the tasks that I assigned to myself in Asana for that day. I prefer having a physical checklist in sight, instead of shifting to Asana everytime I finish a task.  
 
 ##### Other
 - **Notebook*: make notes, doodle and visualize. 
@@ -92,26 +92,19 @@ The main tools that use to support my work:
 | 12:00pm-12:45pm|    Email + Messaging    |
 | 3:00pm-3:15pm|    Break   |
 | 3:15pm-4:45pm|    Work   |
-| 3:45pm-5:00pm|    Clean + Review + Plan   |
+| 4:45pm-5:00pm|    Clean + Review + Plan   |
 
-#### Weekly Review
-- **Assess the day**: Update in Asana the tasks that have been finished.
-- **Clean-up**: Close programs tabs, save in the right folder and clean-up email. 
-- **Plan the next day**: Move tasks in Asana for the next day and write them down in the 
-
-#### Monthly
-- Review
-- Plan 
+### Review & Plan
+#### Daily
+At the end of every day time is scheduled to review the day and plan the next day. This includes:
+- **Review**: Update in the task manager the tasks that have been finished.
+- **Cleaning-up**: Close programs tabs, save in the right folder and clean-up email. 
+- **Plan**: Move tasks in Asana for the next day and write them also down in a notebook. 
 
 #### Weekly
-- Review
-- Plan 
+- **Review**: 1.) Review whether tasks are left in Asana that were planned for this week. 2.) Update whether goals are met in Google Spreadsheet. 3.) Review and tackle any constrains that impacted my productivity. 
+- **Plan**: Review the monthly goals in Google Spreadsheet and create or assign tasks in Asana for the next week. 
 
-#### Daily
-
-
-
-
-
-
- 
+#### Monthly
+- **Review**: 1.) Review whether the goals were met in Google Spreadsheet.
+- **Plan**: Review the yearly goals in Google Spreadsheet and define the goals for next month.  
