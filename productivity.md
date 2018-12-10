@@ -105,6 +105,7 @@ The main tools that use to support my work:
 | 4:45pm-5:00pm|    Clean + Review + Plan   |
 
 ### Review & Plan
+On a daily, weekly and monthly basis I take me time to reflect on the past, and meditate on what I aim to do in the future.
 #### Daily
 At the end of every day time is scheduled to review the day and plan the next day. This includes:
 - **Review**: Update in the task manager the tasks that have been finished.
