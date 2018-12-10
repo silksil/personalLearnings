@@ -73,25 +73,31 @@ When we fail to pursue the activities that we aim to pursue, there is a tendency
 ## Work
 ### Tools
 The main tools that use to support my work:
-- **Google sheets: yearly & monthly planning** To define yearly and monthly goals. 
-- **Asana: weekly & daily planning:** 1.) To create projects in relation to the monthly goals and define the tasks. 2.) Used to define the tasks I want to complete weekly and daily. 
-- **Calendar (weekly, daily and hourly planning)**:
-- **Notebook: daily planning, make notes & doodle**
+##### Planning
+- **Google sheets: yearly & monthly** To define yearly and monthly goals. 
+- **Asana: weekly & daily** To create projects in relation to the monthly goals and define the tasks. Additionaly, I use it to define the tasks I want to complete weekly and daily. 
+- **Calendar: weekly, daily and hourly** Is used to include appointments. In some cases it also used to define during what time periods I am working on what tasks. 
+- **Notebook: daily**: To have an overview of the tasks that I have assigned to myself in Asana. 
+
+##### Other
+- **Notebook*: make notes, doodle and visualize. 
 - **Evernote: make and organize notes** 
 
-
-#### Daily
+### Average (work) day
 | Time  |      Activity      |
 |----------|:-------------:|
-| 09:00am-12:00pm|  Work|
+| 09:00am-09:05pm| Review to-list and planning|
+| 09:05am-12:00pm|  Work|
 | 12:00pm-12:30pm |    Eat + Break    |
 | 12:00pm-12:45pm|    Email + Messaging    |
 | 3:00pm-3:15pm|    Break   |
 | 3:15pm-4:45pm|    Work   |
 | 3:45pm-5:00pm|    Clean + Review + Plan   |
 
-#### Weekly
-
+#### Weekly Review
+- **Assess the day**: Update in Asana the tasks that have been finished.
+- **Clean-up**: Close programs tabs, save in the right folder and clean-up email. 
+- **Plan the next day**: Move tasks in Asana for the next day and write them down in the 
 
 #### Monthly
 - Review
