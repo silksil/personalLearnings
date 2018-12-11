@@ -1,6 +1,8 @@
 
 # Introduction
-This article is written with the help of information consumed through a variety of books (i.e. The Willpower Instinct, Focus, Deep Work, The Doodle Revolution) and through personal experience. It is divided into two main sections that describe how I stay productive:
+Taking the time to reflect and experiment with new ways to improve your productivity, can be a great investment. 
+
+In order to improve my productivity, I have consumed a variety of books (i.e. The Willpower Instinct, Focus, Deep Work, The Doodle Revolution), experiment with various methods and spend quit some hours reflecting on what works, and what doesn't. This article to digest everything what I have learned in one article. .. suggests that most productive people are the ones who contiounsly experiment with new ways to improve their poductivity. I am also likely to change the way I work over time, thus I will update this post in the future if this happens. 
 
 ### Principles
 This sections lays out from a more theoretical perspective what I should do to be productive. These principles are not likely to change a lot over time. This sections is divided into three seperate sub-sections:
@@ -10,6 +12,8 @@ This sections lays out from a more theoretical perspective what I should do to b
 
 ### System
 The system describes more specifically from practical point of view what I do to remain productive. As I experiment with new ways of working and because of tecnological advancement, the system I use is changing quit frequently, but only minorly, over time. 
+1. **Work tools:** the tools that I use to get things done. 
+2. **Work schedule:**  getting more things done through systems and rituals. 
 
 # Principles
 ## 1. Work effectively
