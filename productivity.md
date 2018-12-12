@@ -1,21 +1,15 @@
 
 # Introduction
-Taking the time to reflect and experiment with new ways to improve your productivity, can be a great investment. 
+Taking the time to reflect and experimeningt with new ways to improve your productivity, can be a great investment. In order to improve my productivity, I have consumed a variety of books (i.e. The Willpower Instinct, Focus, Deep Work, The Doodle Revolution), experimented with various methods and spend quit some hours reflecting on what works, and what doesn't. This article aims to digest the most important lessons and practices that I have learned on productivity. As the way I work changes over time, I will update this post everytime this happens.
 
-In order to improve my productivity, I have consumed a variety of books (i.e. The Willpower Instinct, Focus, Deep Work, The Doodle Revolution), experiment with various methods and spend quit some hours reflecting on what works, and what doesn't. This article to digest everything what I have learned in one article. .. suggests that most productive people are the ones who contiounsly experiment with new ways to improve their poductivity. I am also likely to change the way I work over time, thus I will update this post in the future if this happens. 
+The articles is divided into two pieces. The first part, principles, can be seen as the guiding principles, or rules, in order to be productive. In the second part, systems, I glue many of these principles together to have an understanding how I apply it in real-life and what I do from moment to moment on a daily basis. In other words, whereas the principles focus more on the macro, higher-level ideas and concepts, the systems focusses more on micro, and daily processes I go through. I beli
 
-### Principles
-This sections lays out from a more theoretical perspective what I should do to be productive. These principles are not likely to change a lot over time. This sections is divided into three seperate sub-sections:
+# Principles
+This section is divided into three seperate sub-sections:
 1. **Work effectively:** getting the right things done. 
 2. **Work efficiently:**  getting more things done through systems and rituals. 
 3. **Work disciplinary:** getting more things done through self-control.
 
-### System
-The system describes more specifically from practical point of view what I do to remain productive. As I experiment with new ways of working and because of tecnological advancement, the system I use is changing quit frequently, but only minorly, over time. 
-1. **Work tools:** the tools that I use to get things done. 
-2. **Work schedule:**  getting more things done through systems and rituals. 
-
-# Principles
 ## 1. Work effectively
 #### 1.1 Set goals
 Goals are important to guide you towards the right direction.
@@ -84,6 +78,10 @@ When we fail to pursue the activities that we aim to pursue, there is a tendency
 - **Unrealistic optimism** The decision to change is the ultimate in instant gratification—you get all the good feelings before anything’s been done. But if you fail to meet expectations triggers the same old guilt, depression, and self-doubt, causing people to abandon their efforts altogether. Only after we feel out of control and in need of another hit of hope, we will once again vow to change.
 
 # System
+This section is divided into two seperate sub-sections:
+1. **Work tools:** the tools that I use to get things done. 
+2. **Work schedule:**  getting more things done through systems and rituals. 
+
 ## Tools
 The main tools that use to support my work:
 #### Planning
