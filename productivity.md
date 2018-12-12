@@ -1,6 +1,6 @@
 
 # Introduction
-Taking the time to reflect and experimeningt with new ways to improve your productivity, can be a great investment. In order to improve my productivity, I have consumed a variety of books (i.e. The Willpower Instinct, Focus, Deep Work, The Doodle Revolution), experimented with various methods and spend quit some hours reflecting on what works, and what doesn't. This article aims to digest the most important lessons and practices that I have learned on productivity. As the way I work changes over time, I will update this post everytime this happens.
+Taking the time to reflect and experimeningt with new ways to improve your productivity, can be a great investment. In order to improve my productivity, I have consumed a variety of books, experimented with various methods and spend quit some hours reflecting on what works, and what doesn't. This article aims to digest the most important lessons and practices that I have learned on productivity. As the way I work changes over time, I will update this post everytime this happens.
 
 The articles is divided into two pieces. The first part, principles, can be seen as the guiding principles, or rules, in order to be productive. In the second part, systems, I glue many of these principles together to have an understanding how I apply it in real-life and what I do from moment to moment on a daily basis. In other words, whereas the principles focus more on the macro, higher-level ideas and concepts, the systems focusses more on micro, and daily processes I go through. I beli
 
