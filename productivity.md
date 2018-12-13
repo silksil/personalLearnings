@@ -18,7 +18,7 @@ As said before, this part describes principles, or rules, that you will guide in
 It's hard to navigate without having something to aim at -- you need goals to guide yourself towards the right direction. Goals refer to the results you want to achieve, but doesn't state how you want to achieve it.
 
 #### 1.2 Priotize
-You got limited time and resources, and different desires can lead to conflicting goals. Soo choose what you wanna focus on. Focus on the goals that are the wisest possible investment of your time and energy. 
+You got limited time and resources, and different desires can lead to conflicting goals. So focus on the goals that are the wisest possible investment of your time and energy. 
 
 # 2. Work efficiently
 #### 2.1 Follow a system
