@@ -9,24 +9,16 @@ As with most information that is out there, 90% is copied from somebody else, an
 
 # Principles
 As said before, this part describes principles, or rules, that you will guide in being productive. To better understand what I think it takes to be productive, I have separated these principles into three sub-sections:
-* Work effectively 
-* Work efficiently
-* Work disciplinary 
-
 1. **Work effectively:** getting the right things done. 
 2. **Work efficiently:**  getting more things done through systems and rituals. 
 3. **Work disciplinary:** getting more things done through self-control.
 
 ## 1. Work effectively
 #### 1.1 Set goals
-Goals are important to guide you towards the right direction.
-> Goals are about the results you want to achieve. Systems are about the processes that lead to those results… Goals are good for setting a direction, but systems are best for making progress.  — James Clear
+It's hard to navigate without having something to aim at -- you need goals to guide yourself towards the right direction. Goals refer to the results you want to achieve, but doesn't state how you want to achieve it.
 
-#### 1.2 Focus on what is important
-Focus on the goals that are the wisest possible investment of your time and energy. The more you are putting on your plate, the easier you get distracted or overwhelmed, the less you focus on what matters, the less you accomplish.
-
-#### 1.3 Keep the bigger picture in mind 
-Keeping the bigger picture in mind prevent you from working on stuff that doesn't matter. Practically, this could mean having year goals, monthly goals, weekly goals and having regular sections where you review these goals. 
+#### 1.2 Priotize
+You got limited time and resources, and different desires can lead to conflicting goals. Soo choose what you wanna focus on. Focus on the goals that are the wisest possible investment of your time and energy. 
 
 # 2. Work efficiently
 #### 2.1 Follow a system
