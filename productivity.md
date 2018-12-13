@@ -69,6 +69,16 @@ Schedule time where you define and tackle (i.e. automate and systemize) ineffici
 * Password manager (Dashlane)
 * Automatically start all necessary programs when restarting the computer.
 
+#### Stop being a perfectionist
+“We found that perfectionism trips up professors on the way to research productivity. The more perfectionistic the professor, the less productive they are,” Dr. Simon Sherry, a psychology professor at Dalhousie University who conducted a study on perfectionism and productivity, told University Affairs. Dr. Sherry found a robust correlation between increased perfectionism and decreased productivity.
+
+Here are some problems associated with being a perfectionist:
+
+They spend more time than required on a task.
+They procrastinate and wait for the perfect moment. In business, if it is the perfect moment, you are too late.
+They miss the big picture while focusing too much on the small things.
+Marketers often wait for the perfect moment. In doing so, they end up missing it.
+
 # 3. Work disciplinary
 Self-control is one of the most vital virtues for getting what you aim for; it's a better predictor of academic success than intelligence and a stronger determinant of effective leadership than charisma. Luckily, self-control works like a muscle. It gets tired from use, but regular exercise makes it stronger. Below are some principles that guide you using your self-control, and being disciplinary. 
 
