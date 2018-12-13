@@ -1,11 +1,18 @@
-
 # Introduction
-Taking the time to reflect and experimeningt with new ways to improve your productivity, can be a great investment. In order to improve my productivity, I have consumed a variety of books, experimented with various methods and spend quit some hours reflecting on what works, and what doesn't. This article aims to digest the most important lessons and practices that I have learned on productivity. As the way I work changes over time, I will update this post everytime this happens.
+Investing time to improve your productivity, can provide you over time with great returns. Not surprsingly, yearly millions of productivity books are being sold, and the the internet is overloaded with so many articles on this topic that you couldn’t consume it over a life-time even if you would make it a full-time job  (searching “productivity tips on 12 decembxer 2018 provided me with ..hits). 
 
-The articles is divided into two pieces. The first part, principles, can be seen as the guiding principles, or rules, in order to be productive. In the second part, systems, I glue many of these principles together to have an understanding how I apply it in real-life and what I do from moment to moment on a daily basis. In other words, whereas the principles focus more on the macro, higher-level ideas and concepts, the systems focusses more on micro, and daily processes I go through. I beli
+I don’t got a phd on productivity, but I do I’ve spend quit some hours myself consuming information, experimenting and reflecting in order to improve my own productivity. This article aims to bring all that knowledge together by defining my key-learnings that I have learned along the way. 
+
+This article is divided into two parts. The first part — which I have named “Principles” — describes the guiding principles, or rules, I follow to be productive. These principles are very much universal and applicable to most individuals, and if you would pick up productivity book it’s likely it is being discussed. The second part — Systems — glues many of these principles together and describes how I apply them and what I do from moment to moment on a daily basis. So, whereas principles focus more on the macro, universal, higher-level thoughts and ideas, the system focusses more on the micro, personal and the moment by moment processes I go trough on a daily basis. 
+
+As with most information that is out there, 90% is copied from somebody else, and 10% is me. Throughout the article I will refer to the sources I have copied information from, and at the end you will find a list of all reference resources. Lastly, I believe it is good to know that some of the most productive people continuously make changes in the way they work. So, it’s likely that I also will make changes overtime, but I will make sure I will update article everytime that happens. Now, let’s get productive. 
 
 # Principles
-This section is divided into three seperate sub-sections:
+As said before, this part describes principles, or rules, that you will guide in being productive. To better understand what I think it takes to be productive, I have separated these principles into three sub-sections:
+* Work effectively 
+* Work efficiently
+* Work disciplinary 
+
 1. **Work effectively:** getting the right things done. 
 2. **Work efficiently:**  getting more things done through systems and rituals. 
 3. **Work disciplinary:** getting more things done through self-control.
