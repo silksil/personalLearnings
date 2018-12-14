@@ -45,9 +45,11 @@ To reduce the chances of being distracted you can 1.) remove social media and ot
 
 #### 2.5 Use your unconscious to solve problems
 Decisions that require the application of strict rules, the conscious mind is required (e.g. doing math). Decisions that involve large amounts of information and vague, and perhaps even conflicting, constraints, your unconscious mind might be better in solving it. 
+> Observations from experiments such as this one led Dijksterhuis and his collaborators to introduce unconscious thought theory (UTT)—an attempt to understand the different roles conscious and unconscious deliberation play in decision making. At a high level, this theory proposes that for decisions that require the application of strict rules, the conscious mind must be involved. [...] On the other hand, for decisions that involve large amounts of information and multiple vague, and perhaps even conflicting, constraints, your unconscious mind is well suited to tackle the issue. — Cal Newport
 
 #### 2.6 Doodle & visualize
-Companies like Facebook and Google use doodling to work more productively and creatively. [Science suggest](https://www.fastcompany.com/3024420/how-to-turn-your-mindless-doodles-into-productivity-enhancers) people who doodle recall more information, have a deeper understanding of a concept and are better able to communicate it to others. 
+Companies like Facebook and Google use doodling to work more productively and creatively. Science suggest that eople who doodle recall more information, have a deeper understanding of a concept and are better able to communicate it to others. 
+> According to Professor Jackie Andrade at the University of Plymouth, doodling is our mind’s way of ensuring that we have enough cognitive stimulation to stay focused and remain engaged in an information exchange. And that’s not all. In my work as an information designer and visual thinker, I’ve learned that doodling, sketching and drawing is our mind’s way of reflecting information back to itself, allowing us to grasp it more efficiently. Until we can see something, in many ways we can’t really know it at all. As the 20th-century French artist Henri Matisse said, “To draw is to make an idea precise. — Sunni Brown
 
 #### 2.7 Rest
 Resting serves three purposes:
