@@ -1,5 +1,5 @@
 # Introduction
-Investing time to improve your productivity, can provide you over time with great returns. Not surprsingly, yearly millions of productivity books are being sold, and the the internet is overloaded with so many articles on this topic that you couldn’t consume it over a life-time even if you would make it a full-time job  (searching “productivity tips on 12 decembxer 2018 provided me with ..hits). 
+Investing time to improve your productivity, can provide you over time with great returns. Not surprsingly, yearly millions of productivity books are being sold, and the the internet is overloaded with so many articles on the topic you wouldn't able to consume it over a life-time even if you would make it a full-time job. 
 
 I don’t got a phd on productivity, but I do I’ve spend quit some hours myself consuming information, experimenting and reflecting in order to improve my own productivity. This article aims to bring all that knowledge together by defining my key-learnings that I have learned along the way. 
 
@@ -10,7 +10,7 @@ As with most information that is out there, 90% is copied from somebody else, an
 # Principles
 As said before, this part describes principles, or rules, that you will guide in being productive. To better understand what I think it takes to be productive, I have separated these principles into three sub-sections:
 1. **Work effectively:** getting the right things done. 
-2. **Work efficiently:**  getting more things done through systems and rituals. 
+2. **Work efficiently:**  getting more things done. 
 3. **Work disciplinary:** getting more things done through self-control.
 
 ## 1. Work effectively
@@ -22,16 +22,17 @@ You got limited time and resources, and different desires can lead to conflictin
 
 # 2. Work efficiently
 #### 2.1 Follow a system
-Besides having defined the goals, you have to have processes that lead to those desired results. How this system looks differ per person and work context. Examples of different systems in different contexts: 
+Besides having defined the goals, you have to have processes that lead to those desired results. 
+> Goals are about the results you want to achieve. Systems are about the processes that lead to those results. — James Clear
+
+In the second part of this article I will go more into the depth into the processes that I follow. Additionaly, these are some methodologies that that you can follow in relation to the kind of work or phase you are in:
 - Online Marketing: GROWS process. 
 - Programming/project management: SCRUM
 - Brainstorming: Design thinking
 - Product/market fit: Lean Startup Canvas, The Value Proposition Canvas, SPRINT
 
-#### 2.2 Define tasks & plan
-Instead of figuring out in the moment what to do, you should figure this out beforehand. This reduces the chance of being tempted to do something else and preserves mental energy for work itself. For me, this means having a weekly planning in which I:
-- Define the tasks of a project/goal.
-- Plan on which day and time you gonna work on what.
+#### 2.2 Break goals into manageable pieces
+After having devined (big) goals, you need to break them down into manageble pieces. That that you can relate to the life goals, and where you know daily from moment to moment what to do in order to achieve those goals. Instead of figuring what to do in the moment what to do, you can have fixed tiuemslots in which review and define tasks in relation to a goal, so you can preserve mental energy for finishing the task itself to reduce the temptedion in the moment the procastinate. 
 
 #### 2.3 Don't multitask
 The ability to disconnect, as opposed to the standard practice of answering a message, or checking the news every hour, allows you to get more things done that matter and prevent you from getting a chaotic brain: 
