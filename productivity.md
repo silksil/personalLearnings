@@ -58,10 +58,7 @@ Resting serves three purposes:
 - To let your unconscious work on a decision. 
 
 #### 2.8 Automate
-Schedule time where you define and tackle inefficiencies. Examples:
-* Make it easy to find information across platforms (Drive, Evernote, Desktop, Email etc.)
-* Password manager (Dashlane)
-* Automatically start all necessary programs when restarting the computer.
+Schedule time where you define and tackle things that can be automated. 
 
 #### Stop being a perfectionist
 This probably one of my biggest contrainst for when it comes to productivity. Although being a perfectionist can have it's advantages, it can also negatively impact your ability to get things done. 
@@ -89,45 +86,43 @@ Certain cognitive biases can causes brain to trick you in actions that doesn't h
 - **Unrealistic optimism** The decision to change is the ultimate in instant gratification—you get all the good feelings before anything’s been done. But if you fail to meet expectations triggers the same old guilt, depression, and self-doubt, causing people to abandon their efforts altogether. Only after we feel out of control and in need of another hit of hope, we will once again vow to change.
 
 # System
-Now, after having discuessed the Principles, I will continue discusses the sytem, or processe I follow, I use. 
+Now, after having discuessed the Principles, I will continue discusses the sytem, or processes I follow, I use. The system has processes on three different levels:
+- Long-term goals (1+ year)
+- Guiding goals (yearly - monthly - weekly)
+- Daily goals (moment to moment tasks)
 
-## Tools
-Productivity is about the process, not the instrument. Nonetheless, tools can support you process The tools I use are: 
-#### Planning
-- **Google sheets(yearly & monthly):** To define yearly and monthly goals. 
-- **Task manager/Asana(weekly & daily):** To create projects in relation to the monthly goals and define the tasks. Additionaly, I use it to define the tasks I want to complete weekly and daily. 
-- **Calendar(weekly, daily and hourly):** Is used to include appointments. In some cases it also used to define during what time periods I am working on what tasks. 
-- **Notebook(daily)**: I write also write down the tasks that I assigned to myself in Asana for that day. I prefer having a physical checklist in sight, instead of shifting to Asana everytime I finish a task.  
+## Long-term goals
+In Google Sheets I have a list of long-term goals which stay relateivley stable over time. These goals are often not concrete or precise,  but help me define which direction I want to go. 
 
-#### Other
-- **Notebook**: make notes, doodle and visualize. 
-- **Evernote:** make and organize notes.
+## Guiding goals
+I have the guiding goals seperated into three sheets in which I define my yearly, monthly and weekly goals. When I set the monthly goals, I keep in mind the yearly goals, and the weekly goals relate again to the monthly goals. 
 
+After I have defined the monthly or weekly goals, I often create a project in a Task Manager (in my case Asana) to define the tasks that I have to complete to achieve a goal. This is done on a weekly basis, and I update the tasks that I have finished weekly in Asana. 
 
+## Daily goals 
+After having put the tasks into Asana that I want complete for that week, I at the end of every day take to the time to assign tasks to myself that I want to what I want to complete the next day. I also write down the lists of tasks in my  notebook, as I prefer having a physical checklist in sight, instead of shifting to Asana everytime I finish a task. I use my calendar to include apointments, and in some cases I would also define during what time periods I am working on what tasks.
+
+## Reflections
+Instead of updating the long-term, guiding and daily goals sporadicaly, I have schedulaed and priotized fixed time slots to reflect on them. During these slots I:
+- **Track**: Track and update progress in the named tools above. 
+- **Review**: Review how the period was, and if there was anything that I learned or could be improved. 
+- **Clean-up**: Close programs tabs, save files in the right folder, clean-up email etc.
+- **Plan**: Plan what I aim to do for the next period. 
+
+## Tools to support my work
+I have already named that I use Google Sheets, Asana and a calendar to define my planning. Additionaly, I use;
+- **Notebook**: to make notes, doodle and visualize. 
+- **Evernote:** to make and organize notes.
 
 ## Average (work) day
 | Time  |      Activity      |
 |----------|:-------------:|
 | 09:00am-09:05pm| Review to-list and planning|
-| 09:05am-12:00pm|  Work|
+| 09:00am-12:00pm|  Work|
 | 12:00pm-12:30pm |    Eat + Break    |
 | 12:00pm-12:45pm|    Email + Messaging    |
 | 3:00pm-3:15pm|    Break   |
 | 3:15pm-4:45pm|    Work   |
 | 4:45pm-5:00pm|    Clean + Review + Plan   |
+Depending on how much I am in the flow, I often take 1 or 2 more timed breaks of approximately 15 minutes. 
 
-## Review & Plan
-On a daily, weekly and monthly I schedule and priotize time to reflect on the past, and meditate on what I aim to do in the future.
-#### Daily
-At the end of every day time is scheduled to review the day and plan the next day. This includes:
-- **Review**: Update in the task manager the tasks that have been finished.
-- **Cleaning-up**: Close programs tabs, save in the right folder and clean-up email. 
-- **Plan**: Move tasks in Asana for the next day and write them also down in a notebook. 
-
-#### Weekly
-- **Review**: 1.) Review whether tasks are left in Asana that were planned for this week. 2.) Update whether goals are met in Google Spreadsheet. 3.) Review and tackle any constrains that impacted my productivity. 
-- **Plan**: Review the monthly goals in Google Spreadsheet and create or assign tasks in Asana for the next week. 
-
-#### Monthly
-- **Review**: 1.) Review whether the goals were met in Google Spreadsheet.
-- **Plan**: Review the yearly goals in Google Spreadsheet and define the goals for next month.  y. They’re chronically distracted. They initiate much larger parts of their brain that are irrelevant to the task at hand…they’re pretty much mental wrecks. — Clifford Nas
