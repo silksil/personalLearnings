@@ -124,5 +124,6 @@ I have already named that I use Google Sheets, Asana and a calendar to define my
 | 3:00pm-3:15pm|    Break   |
 | 3:15pm-4:45pm|    Work   |
 | 4:45pm-5:00pm|    Clean + Review + Plan   |
+
 Depending on how much I am in the flow, I often take 1 or 2 more timed breaks of approximately 15 minutes. 
 
