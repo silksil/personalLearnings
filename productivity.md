@@ -32,23 +32,22 @@ In the second part of this article I will go more into the depth into the proces
 - Product/market fit: Lean Startup Canvas, The Value Proposition Canvas, SPRINT
 
 #### 2.2 Break goals into manageable pieces
-After having devined (big) goals, you need to break them down into manageble pieces. That that you can relate to the life goals, and where you know daily from moment to moment what to do in order to achieve those goals. Instead of figuring what to do in the moment what to do, you can have fixed tiuemslots in which review and define tasks in relation to a goal, so you can preserve mental energy for finishing the task itself to reduce the temptedion in the moment the procastinate. 
+After having devined (big) goals, you need to break them down into manageble pieces. Pieces you can relate to the life goals, and where you know daily from moment to moment what to do in order to achieve those goals. Instead of figuring what to do in the moment what to do, you can have fixed tiuemslots in which review and define tasks in relation to a goal, so you can preserve mental energy in the moment finishing the task itself and to be less tempted in the moment the procastinate. 
 
 #### 2.3 Don't multitask
-The ability to disconnect, as opposed to the standard practice of answering a message, or checking the news every hour, allows you to get more things done that matter and prevent you from getting a chaotic brain: 
+The ability to disconnect allows you to get more things done that matter and prevent you from getting a chaotic brain: 
 > People who multitask all the time can’t filter out irrelevancy. They can’t manage a working memory. They’re chronically distracted. They initiate much larger parts of their brain that are irrelevant to the task at hand…they’re pretty much mental wrecks. — Clifford Nas
 
-#### 2.4 Remove distractions
-As suggested in the section above, multi-tasking fucks up your brain. This includes sneaking in answering a text or emails:
+Not multitasking includes not sneaking in answering a text or emails:
 > [...] it’s hard to shake the addiction even when you want to concentrate. To put this more concretely: If every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where, like the “mental wrecks” in Nass’s research. — Cal Newport
 
-To reduce the chances of being distracted you can 1.) remove social media and other distracting apps, 2.) turn off notifications, 3.) use apps like Freedom to block content and 4.) use a headphone to block out sounds. 
+To reduce the chances of being distracted you can create an enviroment with less distractions, such as removing social media, turn-off notifications, use apps like Freedom to block content and use a headphone to block out sounds. 
 
-#### 2.5 Use your unconscious to solve problems
+#### 2.4 Use your unconscious to solve problems
 Decisions that require the application of strict rules, the conscious mind is required (e.g. doing math). Decisions that involve large amounts of information and vague, and perhaps even conflicting, constraints, your unconscious mind might be better in solving it. 
 > Observations from experiments such as this one led Dijksterhuis and his collaborators to introduce unconscious thought theory (UTT)—an attempt to understand the different roles conscious and unconscious deliberation play in decision making. At a high level, this theory proposes that for decisions that require the application of strict rules, the conscious mind must be involved. [...] On the other hand, for decisions that involve large amounts of information and multiple vague, and perhaps even conflicting, constraints, your unconscious mind is well suited to tackle the issue. — Cal Newport
 
-#### 2.6 Doodle & visualize
+#### 2.5 Doodle & visualize
 Companies like Facebook and Google use doodling to work more productively and creatively. Science suggest that eople who doodle recall more information, have a deeper understanding of a concept and are better able to communicate it to others. 
 > According to Professor Jackie Andrade at the University of Plymouth, doodling is our mind’s way of ensuring that we have enough cognitive stimulation to stay focused and remain engaged in an information exchange. And that’s not all. In my work as an information designer and visual thinker, I’ve learned that doodling, sketching and drawing is our mind’s way of reflecting information back to itself, allowing us to grasp it more efficiently. Until we can see something, in many ways we can’t really know it at all. As the 20th-century French artist Henri Matisse said, “To draw is to make an idea precise. — Sunni Brown
 
@@ -59,23 +58,22 @@ Resting serves three purposes:
 - To let your unconscious work on a decision. 
 
 #### 2.8 Automate
-Schedule time where you define and tackle (i.e. automate and systemize) inefficiencies. Examples:
+Schedule time where you define and tackle inefficiencies. Examples:
 * Make it easy to find information across platforms (Drive, Evernote, Desktop, Email etc.)
 * Password manager (Dashlane)
 * Automatically start all necessary programs when restarting the computer.
 
 #### Stop being a perfectionist
-“We found that perfectionism trips up professors on the way to research productivity. The more perfectionistic the professor, the less productive they are,” Dr. Simon Sherry, a psychology professor at Dalhousie University who conducted a study on perfectionism and productivity, told University Affairs. Dr. Sherry found a robust correlation between increased perfectionism and decreased productivity.
+This probably one of my biggest contrainst for when it comes to productivity. Although being a perfectionist can have it's advantages, it can also negatively impact your ability to get things done. 
+> We found that perfectionism trips up professors on the way to research productivity. The more perfectionistic the professor, the less productive they are,” — Dr. Simon Sherry, psychology professor at Dalhousie University
 
-Here are some problems associated with being a perfectionist:
-
-They spend more time than required on a task.
-They procrastinate and wait for the perfect moment. In business, if it is the perfect moment, you are too late.
-They miss the big picture while focusing too much on the small things.
-Marketers often wait for the perfect moment. In doing so, they end up missing it.
+Somes problems that can arise when you are a perfectionist:
+- Spend more time than required on a task.
+- Procrastinate and wait for the perfect moment.
+- Neglecting the big picture while focusing too much on the small things.
 
 # 3. Work disciplinary
-Self-control is one of the most vital virtues for getting what you aim for; it's a better predictor of academic success than intelligence and a stronger determinant of effective leadership than charisma. Luckily, self-control works like a muscle. It gets tired from use, but regular exercise makes it stronger. Below are some principles that guide you using your self-control, and being disciplinary. 
+Self-control is one of the most vital virtues for getting what you aim for; it's a better predictor of academic success than intelligence and a stronger determinant of effective leadership than charisma. Luckily, self-control works like a muscle. It gets tired from use, but regular exercise makes it stronger. Below are some principles that guide you using your self-control. 
 
 #### 3.1 Separate real awards from false awards
 If we recognize a reward -- i.e. a possibility to feel good, such as the sight of tasty food, the smell of coffee, noticing a notification -- dopamine is released. When dopamine hijacks your attention, the mind becomes fixated on obtaining or repeating whatever triggered it. It causes us to feel alert, awake and aroused, which can help you in achieving your goal. Nonetheless, it can make us feel restless and distracted too by steering us into immediate gratification. Thus, separate the real rewards that give our lives meaning from the false rewards that only provide you with immediate gratification. 
@@ -84,7 +82,8 @@ If we recognize a reward -- i.e. a possibility to feel good, such as the sight o
 When we fail to pursue the activities that we aim to pursue, there is a tendency to criticize yourself, which works counterproductive on our self-control:
 > Study after study shows that self-criticism is consistently associated with less motivation and worse self-control. It is also one of the single biggest predictors of depression, which drains both “I will” power and “I want” power. In contrast, self-compassion—being supportive and kind to yourself, especially in the face of stress and failure—is associated with more motivation and better self-control. — Kelly McGonigal
     
-#### 3.3 Be aware of the tricks that your mind tends to plays
+#### 3.3 Respond consciously to the tricks your mind can play
+Certain cognitive biases can causes brain to trick you in actions that doesn't help you in moving forward towards your goals. 
 - **Moral licensing:** If you do something good, you feel good about yourself. This increases your trust your impulses—which can increase the tendency to give yourself permission to do something bad.
 - **Goal dreaming:** A mind can get so excited about the opportunity to act on a goal, it mistakes that opportunity with the satisfaction of actually accomplished the goal, causing us to neglect actually working on the actual goal. 
 - **Unrealistic optimism** The decision to change is the ultimate in instant gratification—you get all the good feelings before anything’s been done. But if you fail to meet expectations triggers the same old guilt, depression, and self-doubt, causing people to abandon their efforts altogether. Only after we feel out of control and in need of another hit of hope, we will once again vow to change.
