@@ -1,11 +1,11 @@
 # Introduction
 Investing time to improve your productivity, can provide you over time with great returns. Not surprsingly, yearly millions of productivity books are being sold, and the the internet is overloaded with so many articles on the topic you wouldn't able to consume it over a life-time even if you would make it a full-time job. 
 
-I don’t got a phd on productivity, but I do I’ve spend quit some hours myself consuming information, experimenting and reflecting in order to improve my own productivity. This article aims to bring all that knowledge together by defining my key-learnings that I have learned along the way. 
+I don’t got a phd on productivity, but I have read information written by people who know a lot about productibity. This article aims to bring all that knowledge together by outlining my key-learnings on the topic. 
 
-This article is divided into two parts. The first part — which I have named “Principles” — describes the guiding principles, or rules, I follow to be productive. These principles are very much universal and applicable to most individuals, and if you would pick up productivity book it’s likely it is being discussed. The second part — Systems — glues many of these principles together and describes how I apply them and what I do from moment to moment on a daily basis. So, whereas principles focus more on the macro, universal, higher-level thoughts and ideas, the system focusses more on the micro, personal and the moment by moment processes I go trough on a daily basis. 
+This article is divided into two parts. The first part — which I have named 'Principles' — describes the guiding principles, or rules, I follow to be productive. These principles are very much universal and applicable to most individuals, and if you would pick up any productivity book it’s likely being discussed in their. The second part, 'Systems', glues many of these principles together and describes how I apply the principles in the real world and what I do daily moment to moment. So, whereas principles focus more on the macro, universal, higher-level thoughts and ideas, the system focusses more on the micro, personal and the moment by moment processes I go trough.
 
-As with most information that is out there, 90% is copied from somebody else, and 10% is me. Throughout the article I will refer to the sources I have copied information from, and at the end you will find a list of all reference resources. Lastly, I believe it is good to know that some of the most productive people continuously make changes in the way they work. So, it’s likely that I also will make changes overtime, but I will make sure I will update article everytime that happens. Now, let’s get productive. 
+As with most information that is out there, 90% is copied from somebody else, and 10% is my own. Throughout the article I will refer to the sources I have copied information from, and at the end you will find a list of all reference resources. Lastly, I believe it is good to know that some of the most productive people continuously make changes in the way they work. So, it’s likely that I also will make changes overtime, but I will make sure I will update article everytime that happens. Now, let’s get productive. 
 
 # Principles
 As said before, this part describes principles, or rules, that you will guide in being productive. To better understand what I think it takes to be productive, I have separated these principles into three sub-sections:
@@ -15,7 +15,7 @@ As said before, this part describes principles, or rules, that you will guide in
 
 ## 1. Work effectively
 #### 1.1 Set goals
-It's hard to navigate without having something to aim at -- you need goals to guide yourself towards the right direction. Goals refer to the results you want to achieve, but doesn't state how you want to achieve it.
+It's hard to navigate without having something to aim at; you need goals to guide yourself towards the right direction. Goals refer to the results you want to achieve, not how you want to achieve it (see 2.1. 'Follow a system')
 
 #### 1.2 Priotize
 You got limited time and resources, and different desires can lead to conflicting goals. So focus on the goals that are the wisest possible investment of your time and energy. 
@@ -89,10 +89,10 @@ Certain cognitive biases can causes brain to trick you in actions that doesn't h
 - **Unrealistic optimism** The decision to change is the ultimate in instant gratification—you get all the good feelings before anything’s been done. But if you fail to meet expectations triggers the same old guilt, depression, and self-doubt, causing people to abandon their efforts altogether. Only after we feel out of control and in need of another hit of hope, we will once again vow to change.
 
 # System
-Now, after having discuessed the Principles, I will continue discusses the sytem, or processe I follow and tools I use, I use daily. 
+Now, after having discuessed the Principles, I will continue discusses the sytem, or processe I follow, I use. 
 
 ## Tools
-Productivity is about the process, not the instrument. Nonetheless, tools can support you work. The tools I use are: 
+Productivity is about the process, not the instrument. Nonetheless, tools can support you process The tools I use are: 
 #### Planning
 - **Google sheets(yearly & monthly):** To define yearly and monthly goals. 
 - **Task manager/Asana(weekly & daily):** To create projects in relation to the monthly goals and define the tasks. Additionaly, I use it to define the tasks I want to complete weekly and daily. 
@@ -102,6 +102,8 @@ Productivity is about the process, not the instrument. Nonetheless, tools can su
 #### Other
 - **Notebook**: make notes, doodle and visualize. 
 - **Evernote:** make and organize notes.
+
+
 
 ## Average (work) day
 | Time  |      Activity      |
