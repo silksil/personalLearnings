@@ -89,12 +89,10 @@ Certain cognitive biases can causes brain to trick you in actions that doesn't h
 - **Unrealistic optimism** The decision to change is the ultimate in instant gratification—you get all the good feelings before anything’s been done. But if you fail to meet expectations triggers the same old guilt, depression, and self-doubt, causing people to abandon their efforts altogether. Only after we feel out of control and in need of another hit of hope, we will once again vow to change.
 
 # System
-This section is divided into two seperate sub-sections:
-1. **Work tools:** the tools that I use to get things done. 
-2. **Work schedule:**  getting more things done through systems and rituals. 
+Now, after having discuessed the Principles, I will continue discusses the sytem, or processe I follow and tools I use, I use daily. 
 
 ## Tools
-The main tools that use to support my work:
+Productivity is about the process, not the instrument. Nonetheless, tools can support you work. The tools I use are: 
 #### Planning
 - **Google sheets(yearly & monthly):** To define yearly and monthly goals. 
 - **Task manager/Asana(weekly & daily):** To create projects in relation to the monthly goals and define the tasks. Additionaly, I use it to define the tasks I want to complete weekly and daily. 
@@ -102,8 +100,8 @@ The main tools that use to support my work:
 - **Notebook(daily)**: I write also write down the tasks that I assigned to myself in Asana for that day. I prefer having a physical checklist in sight, instead of shifting to Asana everytime I finish a task.  
 
 #### Other
-- **Notebook*: make notes, doodle and visualize. 
-- **Evernote: make and organize notes** 
+- **Notebook**: make notes, doodle and visualize. 
+- **Evernote:** make and organize notes.
 
 ## Average (work) day
 | Time  |      Activity      |
