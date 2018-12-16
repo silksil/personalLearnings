@@ -108,7 +108,7 @@ In Google Sheets, I have a list of long-term goals. These goals stay relatively 
 I have the guiding goals separated into three tabs in Google Sheets in which I define my yearly, monthly and weekly goals. When I set the monthly goals, I keep in mind the yearly goals, and when I set the weekly goals I relate them to the monthly goals. After I have defined my weekly goals, I divide the goals into manageable pieces and I include the pieces, or tasks, into a task/project managing tool (in my case Asana). 
 
 ## Daily goals 
-After having put the tasks into Asana that I want complete for that week, I at the end of every day take to the time to assign tasks to myself that I want to what I want to complete the next working day. I also write down the lists of tasks in my notebook, as I prefer having a physical checklist insight, instead of shifting to Asana everytime I finish a task. I use my calendar to include appointments, and in some cases, I would also define during what time periods I am working on what tasks.
+After having put the tasks into Asana that I want complete for that week, it's time for assigning the daily tasks. At the end of every day I assign tasks that I want to complete the next working day. I estimate how long each task takes and I include the tasks in my agenda. The next day, when I wake up I do what my calendar says. I also write down the lists of tasks in my notebook, as I prefer having a physical checklist insight. At the and the of the day, I update the tasks that I have completed (which ideally should be all all assigned tasks for that day, but that doesn't always happen) and continue with the planning for the next day.  
 
 ## Tools to support my work
 I have already named that I use Google Sheets, Asana and the Apple Calendar to define my planning. Additionally, I use;
@@ -133,5 +133,7 @@ Depending on how much I am in the flow, I often take 1 or 2 more timed breaks of
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W) by _James Clear_
 - [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) by _Cal Newport_
 - [The Willpower Instinct](https://www.amazon.com/Willpower-Instinct-Self-Control-Works-Matters/dp/1583335080) by _Kelly McGonigal_
+- [How I Stay Productive](https://www.ryanckulp.com/im-productive/) by _Ryan Kulp_
+- [The Doodle Revolution](https://www.amazon.com/Doodle-Revolution-Unlock-Power-Differently/dp/1591847036) by _Sunni Brown_
 
 
