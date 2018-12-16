@@ -126,7 +126,7 @@ I have already named that I use Google Sheets, Asana and the Apple Calendar to d
 | 3:15pm-4:45pm|    Work   |
 | 4:45pm-5:00pm|    Clean + Review + Plan   |
 
-Depending on how much I am in the flow, I often take 1 or 2 more timed breaks of approximately 15 minutes. 
+Depending on how much I am in the flow, I often take 1 or 2 more timed breaks of approximately 5-15 minutes. 
 
 # Resources
 -  [The Definitive 100 Most Useful Productivity Tips](https://learn.filtered.com/hubfs/Definitive%20100%20Most%20Useful%20Productivity%20Hacks.pdf) by _filtered.com_
